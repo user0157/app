@@ -1,0 +1,6401 @@
+[
+    {
+        "name": "A01",
+        "price": 37,
+        "sku": "A01-NF-IN-ST-LS-BK",
+        "skus": [
+            "A01-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A01 C/A",
+        "price": 45,
+        "sku": "A01-WF-IN-ST-LS-BK",
+        "skus": [
+            "A01-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A01 C/A VIVID",
+        "price": 55,
+        "sku": "A01-WF-IN-VD-LS-BK",
+        "skus": [
+            "A01-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A01CORE",
+        "price": 35,
+        "sku": "A01CORE-NF-IN-ST-LS-BK",
+        "skus": [
+            "A01CORE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A01CORE C/A",
+        "price": 42,
+        "sku": "A01CORE-WF-IN-ST-LS-BK",
+        "skus": [
+            "A01CORE-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A02 C/A",
+        "price": 45,
+        "sku": "A02-WF-IN-ST-LS-BK",
+        "skus": [
+            "A02-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A02 C/A VIVID",
+        "price": 55,
+        "sku": "A02-WF-IN-VD-LS-BK",
+        "skus": [
+            "A02-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A02/A12/M12/A32 5G",
+        "price": 35,
+        "sku": "A02/A12/M12/A325G-NF-IN-ST-LS-BK",
+        "skus": [
+            "A02-NF-IN-ST-LS-BK",
+            "A12-NF-IN-ST-LS-BK",
+            "M12-NF-IN-ST-LS-BK",
+            "A325G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A02S C/A",
+        "price": 46,
+        "sku": "A02S-WF-IN-ST-LS-BK",
+        "skus": [
+            "A02S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A02S C/A VIVID",
+        "price": 55,
+        "sku": "A02S-WF-IN-VD-LS-BK",
+        "skus": [
+            "A02S-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A02S/A03/A03S/A04E",
+        "price": 36,
+        "sku": "A02S/A03/A03S/A04E-NF-IN-ST-LS-BK",
+        "skus": [
+            "A02S-NF-IN-ST-LS-BK",
+            "A03-NF-IN-ST-LS-BK",
+            "A03S-NF-IN-ST-LS-BK",
+            "A04E-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A03 C/A",
+        "price": 46,
+        "sku": "A03-WF-IN-ST-LS-BK",
+        "skus": [
+            "A03-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A03 C/A VIVID",
+        "price": 58,
+        "sku": "A03-WF-IN-VD-LS-BK",
+        "skus": [
+            "A03-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A03CORE",
+        "price": 37,
+        "sku": "A03CORE-NF-IN-ST-LS-BK",
+        "skus": [
+            "A03CORE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A03CORE C/A",
+        "price": 43,
+        "sku": "A03CORE-WF-IN-ST-LS-BK",
+        "skus": [
+            "A03CORE-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A03CORE C/A VIVID",
+        "price": 55,
+        "sku": "A03CORE-WF-IN-VD-LS-BK",
+        "skus": [
+            "A03CORE-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A03S C/A",
+        "price": 46,
+        "sku": "A03S-WF-IN-ST-LS-BK",
+        "skus": [
+            "A03S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A03S C/A VIVID",
+        "price": 55,
+        "sku": "A03S-WF-IN-VD-LS-BK",
+        "skus": [
+            "A03S-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A04",
+        "price": 38,
+        "sku": "A04-NF-IN-ST-LS-BK",
+        "skus": [
+            "A04-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A04 C/A",
+        "price": 54,
+        "sku": "A04-WF-IN-ST-LS-BK",
+        "skus": [
+            "A04-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A04E C/A",
+        "price": 43,
+        "sku": "A04E-WF-IN-ST-LS-BK",
+        "skus": [
+            "A04E-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A04E C/A VIVID",
+        "price": 55,
+        "sku": "A04E-WF-IN-VD-LS-BK",
+        "skus": [
+            "A04E-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A04S/A13 5G",
+        "price": 40,
+        "sku": "A04S/A135G-NF-IN-ST-LS-BK",
+        "skus": [
+            "A04S-NF-IN-ST-LS-BK",
+            "A135G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A04S/A13 5G C/A",
+        "price": 45,
+        "sku": "A04S/A135G-WF-IN-ST-LS-BK",
+        "skus": [
+            "A04S-WF-IN-ST-LS-BK",
+            "A135G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A05",
+        "price": 42,
+        "sku": "A05-NF-IN-ST-LS-BK",
+        "skus": [
+            "A05-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A05 C/A",
+        "price": 50,
+        "sku": "A05-WF-IN-ST-LS-BK",
+        "skus": [
+            "A05-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A05 C/A VIVID",
+        "price": 67,
+        "sku": "A05-WF-IN-VD-LS-BK",
+        "skus": [
+            "A05-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A05S",
+        "price": 48,
+        "sku": "A05S-NF-IN-ST-LS-BK",
+        "skus": [
+            "A05S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A05S C/A",
+        "price": 55,
+        "sku": "A05S-WF-IN-ST-LS-BK",
+        "skus": [
+            "A05S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A06 4G",
+        "price": 42,
+        "sku": "A06-NF-IN-ST-LS-BK",
+        "skus": [
+            "A06-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A06 4G C/A",
+        "price": 50,
+        "sku": "A06-WF-IN-ST-LS-BK",
+        "skus": [
+            "A06-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A06 4G C/A VIVID",
+        "price": 70,
+        "sku": "A06-WF-IN-VD-LS-BK",
+        "skus": [
+            "A06-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A06 5G",
+        "price": 55,
+        "sku": "A065G-NF-IN-ST-LS-BK",
+        "skus": [
+            "A065G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A06 5G C/A",
+        "price": 65,
+        "sku": "A065G-WF-IN-ST-LS-BK",
+        "skus": [
+            "A065G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A10",
+        "price": 36,
+        "sku": "A10-NF-IN-ST-LS-BK",
+        "skus": [
+            "A10-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A10 C/A",
+        "price": 43,
+        "sku": "A10-WF-IN-ST-LS-BK",
+        "skus": [
+            "A10-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A10S",
+        "price": 36,
+        "sku": "A10S-NF-IN-ST-LS-BK",
+        "skus": [
+            "A10S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A10S C/A",
+        "price": 43,
+        "sku": "A10S-WF-IN-ST-LS-BK",
+        "skus": [
+            "A10S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A11",
+        "price": 40,
+        "sku": "A11-NF-IN-ST-LS-BK",
+        "skus": [
+            "A11-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A11 C/A",
+        "price": 46,
+        "sku": "A11-WF-IN-ST-LS-BK",
+        "skus": [
+            "A11-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A11 C/A VIVID",
+        "price": 55,
+        "sku": "A11-WF-IN-VD-LS-BK",
+        "skus": [
+            "A11-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A12 C/A",
+        "price": 45,
+        "sku": "A12-WF-IN-ST-LS-BK",
+        "skus": [
+            "A12-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A12 C/A VIVID",
+        "price": 60,
+        "sku": "A12-WF-IN-VD-LS-BK",
+        "skus": [
+            "A12-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A13 4G/M13",
+        "price": 40,
+        "sku": "A13/M13-NF-IN-ST-LS-BK",
+        "skus": [
+            "A13-NF-IN-ST-LS-BK",
+            "M13-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A13 4G/M13 C/A",
+        "price": 45,
+        "sku": "A13/M13-WF-IN-ST-LS-BK",
+        "skus": [
+            "A13-WF-IN-ST-LS-BK",
+            "M13-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A13 4G/M13 C/A VIVID",
+        "price": 55,
+        "sku": "A13/M13-WF-IN-VD-LS-BK",
+        "skus": [
+            "A13-WF-IN-VD-LS-BK",
+            "M13-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A14 4G",
+        "price": 40,
+        "sku": "A14-NF-IN-ST-LS-BK",
+        "skus": [
+            "A14-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A14 4G C/A",
+        "price": 50,
+        "sku": "A14-WF-IN-ST-LS-BK",
+        "skus": [
+            "A14-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A14 5G",
+        "price": 45,
+        "sku": "A145G-NF-IN-ST-LS-BK",
+        "skus": [
+            "A145G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A14 5G C/A",
+        "price": 52,
+        "sku": "A145G-WF-IN-ST-LS-BK",
+        "skus": [
+            "A145G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A14 5G C/A VIVID",
+        "price": 60,
+        "sku": "A145G-WF-IN-VD-LS-BK",
+        "skus": [
+            "A145G-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A15 4G C/A OLED VIVID 大屏",
+        "price": 175,
+        "sku": "A15-WF-OL-VD-LS-BK",
+        "skus": [
+            "A15-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A15 4G/A15 5G",
+        "price": 50,
+        "sku": "A15/A155G-NF-IN-ST-LS-BK",
+        "skus": [
+            "A15-NF-IN-ST-LS-BK",
+            "A155G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A15 4G/A15 5G C/A",
+        "price": 60,
+        "sku": "A15/A155G-WF-IN-ST-LS-BK",
+        "skus": [
+            "A15-WF-IN-ST-LS-BK",
+            "A155G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A15 C/A OLED",
+        "price": 175,
+        "sku": "A15-WF-OL-ST-LS-BK",
+        "skus": [
+            "A15-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A15 C/A VIVID",
+        "price": 75,
+        "sku": "A15-WF-IN-VD-LS-BK",
+        "skus": [
+            "A15-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A15 OLED",
+        "price": 140,
+        "sku": "A15-NF-OL-ST-LS-BK",
+        "skus": [
+            "A15-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A16 4G C/A",
+        "price": 75,
+        "sku": "A16-WF-IN-ST-LS-BK",
+        "skus": [
+            "A16-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A16 4G C/A OLED",
+        "price": 210,
+        "sku": "A16-WF-OL-ST-LS-BK",
+        "skus": [
+            "A16-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A16 4G/A16 5G",
+        "price": 65,
+        "sku": "A16/A165G-NF-IN-ST-LS-BK",
+        "skus": [
+            "A16-NF-IN-ST-LS-BK",
+            "A165G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A16 5G C/A",
+        "price": 75,
+        "sku": "A165G-WF-IN-ST-LS-BK",
+        "skus": [
+            "A165G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A16 5G C/A OLED",
+        "price": 205,
+        "sku": "A165G-WF-OL-ST-LS-BK",
+        "skus": [
+            "A165G-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A16 C/A OLED VIVID",
+        "price": 0,
+        "sku": "A16-WF-OL-VD-LS-BK",
+        "skus": [
+            "A16-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A20 C/A",
+        "price": 45,
+        "sku": "A20-WF-IN-ST-LS-BK",
+        "skus": [
+            "A20-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A20 C/A OLED",
+        "price": 110,
+        "sku": "A20-WF-OL-ST-LS-BK",
+        "skus": [
+            "A20-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A20 C/A VIVID",
+        "price": 55,
+        "sku": "A20-WF-IN-VD-LS-BK",
+        "skus": [
+            "A20-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A20S",
+        "price": 38,
+        "sku": "A20S-NF-IN-ST-LS-BK",
+        "skus": [
+            "A20S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A20S C/A",
+        "price": 49,
+        "sku": "A20S-WF-IN-ST-LS-BK",
+        "skus": [
+            "A20S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A20S C/A VIVID",
+        "price": 55,
+        "sku": "A20S-WF-IN-VD-LS-BK",
+        "skus": [
+            "A20S-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A21S",
+        "price": 38,
+        "sku": "A21S-NF-IN-ST-LS-BK",
+        "skus": [
+            "A21S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A21S C/A",
+        "price": 43,
+        "sku": "A21S-WF-IN-ST-LS-BK",
+        "skus": [
+            "A21S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A21S C/A VIVID",
+        "price": 55,
+        "sku": "A21S-WF-IN-VD-LS-BK",
+        "skus": [
+            "A21S-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A22 4G C/A",
+        "price": 53,
+        "sku": "A22-WF-IN-ST-LS-BK",
+        "skus": [
+            "A22-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A22 4G C/A OLED VIVID 大屏",
+        "price": 125,
+        "sku": "A22-WF-OL-VD-LS-BK",
+        "skus": [
+            "A22-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A22 4G C/A VIVID",
+        "price": 63,
+        "sku": "A22-WF-IN-VD-LS-BK",
+        "skus": [
+            "A22-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A22 5G",
+        "price": 50,
+        "sku": "A225G-NF-IN-ST-LS-BK",
+        "skus": [
+            "A225G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A22 5G C/A",
+        "price": 58,
+        "sku": "A225G-WF-IN-ST-LS-BK",
+        "skus": [
+            "A225G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A23 4G/A23 5G/M23/M33",
+        "price": 45,
+        "sku": "A23/A235G/M23/M33-NF-IN-ST-LS-BK",
+        "skus": [
+            "A23-NF-IN-ST-LS-BK",
+            "A235G-NF-IN-ST-LS-BK",
+            "M23-NF-IN-ST-LS-BK",
+            "M33-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A23 4G/A23 5G/M23/M33 C/A",
+        "price": 53,
+        "sku": "A23/A235G/M23/M33-WF-IN-ST-LS-BK",
+        "skus": [
+            "A23-WF-IN-ST-LS-BK",
+            "A235G-WF-IN-ST-LS-BK",
+            "M23-WF-IN-ST-LS-BK",
+            "M33-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A23 4G/A23 5G/M23/M33 C/A VIVID",
+        "price": 65,
+        "sku": "A23/A235G/M23/M33-WF-IN-VD-LS-BK",
+        "skus": [
+            "A23-WF-IN-VD-LS-BK",
+            "A235G-WF-IN-VD-LS-BK",
+            "M23-WF-IN-VD-LS-BK",
+            "M33-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A24 C/A",
+        "price": 60,
+        "sku": "A24-WF-IN-ST-LS-BK",
+        "skus": [
+            "A24-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A24 C/A OLED VIVID",
+        "price": 0,
+        "sku": "A24-WF-OL-VD-LS-BK",
+        "skus": [
+            "A24-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A24 C/A OLED 大屏",
+        "price": 150,
+        "sku": "A24-WF-OL-ST-LS-BK",
+        "skus": [
+            "A24-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A24 C/A OLED 小屏",
+        "price": 130,
+        "sku": "A24-WF-OL-ST-SS-BK",
+        "skus": [
+            "A24-WF-OL-ST-SS-BK"
+        ]
+    },
+    {
+        "name": "A24/M34",
+        "price": 53,
+        "sku": "A24/M34-NF-IN-ST-LS-BK",
+        "skus": [
+            "A24-NF-IN-ST-LS-BK",
+            "M34-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A24/M34 OLED 小屏",
+        "price": 120,
+        "sku": "A24/M34-NF-OL-ST-SS-BK",
+        "skus": [
+            "A24-NF-OL-ST-SS-BK",
+            "M34-NF-OL-ST-SS-BK"
+        ]
+    },
+    {
+        "name": "A25",
+        "price": 58,
+        "sku": "A25-NF-IN-ST-LS-BK",
+        "skus": [
+            "A25-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A25 C/A",
+        "price": 75,
+        "sku": "A25-WF-IN-ST-LS-BK",
+        "skus": [
+            "A25-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A25 C/A OLED VIVID 大屏",
+        "price": 165,
+        "sku": "A25-WF-OL-VD-LS-BK",
+        "skus": [
+            "A25-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A25 OLED",
+        "price": 128,
+        "sku": "A25-NF-OL-ST-LS-BK",
+        "skus": [
+            "A25-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A30/A50/A50S",
+        "price": 0,
+        "sku": "A30/A50/A50S-NF-IN-ST-LS-BK",
+        "skus": [
+            "A30-NF-IN-ST-LS-BK",
+            "A50-NF-IN-ST-LS-BK",
+            "A50S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A30/A50/A50S C/A",
+        "price": 50,
+        "sku": "A30/A50/A50S-WF-IN-ST-LS-BK",
+        "skus": [
+            "A30-WF-IN-ST-LS-BK",
+            "A50-WF-IN-ST-LS-BK",
+            "A50S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A30/A50/A50S C/A OLED VIVID",
+        "price": 125,
+        "sku": "A30/A50/A50S-WF-OL-VD-LS-BK",
+        "skus": [
+            "A30-WF-OL-VD-LS-BK",
+            "A50-WF-OL-VD-LS-BK",
+            "A50S-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A30/A50/A50S C/A VIVID",
+        "price": 57,
+        "sku": "A30/A50/A50S-WF-IN-VD-LS-BK",
+        "skus": [
+            "A30-WF-IN-VD-LS-BK",
+            "A50-WF-IN-VD-LS-BK",
+            "A50S-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A30S",
+        "price": 0,
+        "sku": "A30S-NF-IN-ST-LS-BK",
+        "skus": [
+            "A30S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A30S C/A",
+        "price": 50,
+        "sku": "A30S-WF-IN-ST-LS-BK",
+        "skus": [
+            "A30S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A30S C/A OLED",
+        "price": 125,
+        "sku": "A30S-WF-OL-ST-LS-BK",
+        "skus": [
+            "A30S-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A30S C/A OLED VIVID",
+        "price": 125,
+        "sku": "A30S-WF-OL-VD-LS-BK",
+        "skus": [
+            "A30S-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A30S C/A VIVID",
+        "price": 55,
+        "sku": "A30S-WF-IN-VD-LS-BK",
+        "skus": [
+            "A30S-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A31",
+        "price": 0,
+        "sku": "A31-NF-IN-ST-LS-BK",
+        "skus": [
+            "A31-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A31 C/A",
+        "price": 50,
+        "sku": "A31-WF-IN-ST-LS-BK",
+        "skus": [
+            "A31-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A31 C/A OLED",
+        "price": 120,
+        "sku": "A31-WF-OL-ST-LS-BK",
+        "skus": [
+            "A31-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A31 C/A OLED VIVID",
+        "price": 0,
+        "sku": "A31-WF-OL-VD-LS-BK",
+        "skus": [
+            "A31-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A31 C/A VIVID",
+        "price": 65,
+        "sku": "A31-WF-IN-VD-LS-BK",
+        "skus": [
+            "A31-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A32 4G",
+        "price": 0,
+        "sku": "A32-NF-IN-ST-LS-BK",
+        "skus": [
+            "A32-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A32 C/A",
+        "price": 58,
+        "sku": "A32-WF-IN-ST-LS-BK",
+        "skus": [
+            "A32-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A32 C/A OLED",
+        "price": 130,
+        "sku": "A32-WF-OL-ST-LS-BK",
+        "skus": [
+            "A32-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A32 C/A OLED VIVID",
+        "price": 135,
+        "sku": "A32-WF-OL-VD-LS-BK",
+        "skus": [
+            "A32-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A32 C/A VIVID",
+        "price": 68,
+        "sku": "A32-WF-IN-VD-LS-BK",
+        "skus": [
+            "A32-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A33",
+        "price": 50,
+        "sku": "A33-NF-IN-ST-LS-BK",
+        "skus": [
+            "A33-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A33 C/A",
+        "price": 70,
+        "sku": "A33-WF-IN-ST-LS-BK",
+        "skus": [
+            "A33-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A33 C/A OLED",
+        "price": 0,
+        "sku": "A33-WF-OL-ST-LS-BK",
+        "skus": [
+            "A33-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A33 C/A OLED VIVID",
+        "price": 165,
+        "sku": "A33-WF-OL-VD-LS-BK",
+        "skus": [
+            "A33-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A34 C/A",
+        "price": 70,
+        "sku": "A34-WF-IN-ST-LS-BK",
+        "skus": [
+            "A34-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A34 C/A OLED VIVID",
+        "price": 0,
+        "sku": "A34-WF-OL-VD-LS-BK",
+        "skus": [
+            "A34-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A34 C/A OLED 大屏",
+        "price": 180,
+        "sku": "A34-WF-OL-ST-LS-BK",
+        "skus": [
+            "A34-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A34 C/A OLED 小屏",
+        "price": 135,
+        "sku": "A34-WF-OL-ST-SS-BK",
+        "skus": [
+            "A34-WF-OL-ST-SS-BK"
+        ]
+    },
+    {
+        "name": "A34 C/A VIVID",
+        "price": 80,
+        "sku": "A34-WF-IN-VD-LS-BK",
+        "skus": [
+            "A34-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A35",
+        "price": 0,
+        "sku": "A35-NF-IN-ST-LS-BK",
+        "skus": [
+            "A35-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A35 C/A",
+        "price": 75,
+        "sku": "A35-WF-IN-ST-LS-BK",
+        "skus": [
+            "A35-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A35 C/A OLED",
+        "price": 175,
+        "sku": "A35-WF-OL-ST-LS-BK",
+        "skus": [
+            "A35-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A35 C/A OLED VIVID 大屏",
+        "price": 200,
+        "sku": "A35-WF-OL-VD-LS-BK",
+        "skus": [
+            "A35-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A35 C/A VIVID",
+        "price": 95,
+        "sku": "A35-WF-IN-VD-LS-BK",
+        "skus": [
+            "A35-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A35 OLED",
+        "price": 175,
+        "sku": "A35-NF-OL-ST-LS-BK",
+        "skus": [
+            "A35-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A36 C/A OLED",
+        "price": 200,
+        "sku": "A36-WF-OL-ST-LS-BK",
+        "skus": [
+            "A36-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A51 C/A",
+        "price": 53,
+        "sku": "A51-WF-IN-ST-LS-BK",
+        "skus": [
+            "A51-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A51 C/A OLED",
+        "price": 150,
+        "sku": "A51-WF-OL-ST-LS-BK",
+        "skus": [
+            "A51-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A51 C/A OLED VIVID 大屏",
+        "price": 150,
+        "sku": "A51-WF-OL-VD-LS-BK",
+        "skus": [
+            "A51-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A51 C/A VIVID",
+        "price": 68,
+        "sku": "A51-WF-IN-VD-LS-BK",
+        "skus": [
+            "A51-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A52 C/A",
+        "price": 68,
+        "sku": "A52-WF-IN-ST-LS-BK",
+        "skus": [
+            "A52-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A52 C/A OLED VIVID 大屏",
+        "price": 175,
+        "sku": "A52-WF-OL-VD-LS-BK",
+        "skus": [
+            "A52-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A53 C/A",
+        "price": 68,
+        "sku": "A53-WF-IN-ST-LS-BK",
+        "skus": [
+            "A53-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A53 C/A OLED",
+        "price": 155,
+        "sku": "A53-WF-OL-ST-LS-BK",
+        "skus": [
+            "A53-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A530",
+        "price": 50,
+        "sku": "A530-NF-IN-ST-LS-BK",
+        "skus": [
+            "A530-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A530 OLED",
+        "price": 165,
+        "sku": "A530-NF-OL-ST-LS-BK",
+        "skus": [
+            "A530-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A54 C/A",
+        "price": 75,
+        "sku": "A54-WF-IN-ST-LS-BK",
+        "skus": [
+            "A54-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A54 C/A OLED",
+        "price": 175,
+        "sku": "A54-WF-OL-ST-LS-BK",
+        "skus": [
+            "A54-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A54 C/A OLED VIVID 大屏",
+        "price": 170,
+        "sku": "A54-WF-OL-VD-LS-BK",
+        "skus": [
+            "A54-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A55",
+        "price": 58,
+        "sku": "A55-NF-IN-ST-LS-BK",
+        "skus": [
+            "A55-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A55 C/A",
+        "price": 82,
+        "sku": "A55-WF-IN-ST-LS-BK",
+        "skus": [
+            "A55-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A55 C/A OLED VIVID 大屏",
+        "price": 195,
+        "sku": "A55-WF-OL-VD-LS-BK",
+        "skus": [
+            "A55-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A55 C/A VIVID",
+        "price": 85,
+        "sku": "A55-WF-IN-VD-LS-BK",
+        "skus": [
+            "A55-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A56 C/A OLED",
+        "price": 245,
+        "sku": "A56-WF-OL-ST-LS-BK",
+        "skus": [
+            "A56-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A6PLUS",
+        "price": 60,
+        "sku": "A6PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "A6PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A6PLUS OLED",
+        "price": 125,
+        "sku": "A6PLUS-NF-OL-ST-LS-BK",
+        "skus": [
+            "A6PLUS-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A70 C/A",
+        "price": 60,
+        "sku": "A70-WF-IN-ST-LS-BK",
+        "skus": [
+            "A70-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A70 C/A OLED VIVID",
+        "price": 215,
+        "sku": "A70-WF-OL-VD-LS-BK",
+        "skus": [
+            "A70-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A70 C/A OLED 大屏",
+        "price": 215,
+        "sku": "A70-WF-OL-ST-LS-BK",
+        "skus": [
+            "A70-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A70 C/A OLED 小屏",
+        "price": 110,
+        "sku": "A70-WF-OL-ST-SS-BK",
+        "skus": [
+            "A70-WF-OL-ST-SS-BK"
+        ]
+    },
+    {
+        "name": "A71 C/A",
+        "price": 60,
+        "sku": "A71-WF-IN-ST-LS-BK",
+        "skus": [
+            "A71-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A71 C/A OLED",
+        "price": 185,
+        "sku": "A71-WF-OL-ST-LS-BK",
+        "skus": [
+            "A71-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A71 C/A OLED VIVID",
+        "price": 0,
+        "sku": "A71-WF-OL-VD-LS-BK",
+        "skus": [
+            "A71-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "A71/M62",
+        "price": 52,
+        "sku": "A71/M62-NF-IN-ST-LS-BK",
+        "skus": [
+            "A71-NF-IN-ST-LS-BK",
+            "M62-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A72 C/A",
+        "price": 80,
+        "sku": "A72-WF-IN-ST-LS-BK",
+        "skus": [
+            "A72-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A72 C/A OLED 大屏",
+        "price": 175,
+        "sku": "A72-WF-OL-ST-LS-BK",
+        "skus": [
+            "A72-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A72 C/A OLED 小屏",
+        "price": 113,
+        "sku": "A72-WF-OL-ST-SS-BK",
+        "skus": [
+            "A72-WF-OL-ST-SS-BK"
+        ]
+    },
+    {
+        "name": "A720 OLED",
+        "price": 145,
+        "sku": "A720-NF-OL-ST-LS-BK",
+        "skus": [
+            "A720-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A73 C/A",
+        "price": 70,
+        "sku": "A73-WF-IN-ST-LS-BK",
+        "skus": [
+            "A73-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A73 C/A OLED",
+        "price": 175,
+        "sku": "A73-WF-OL-ST-LS-BK",
+        "skus": [
+            "A73-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A730/A8PLUS",
+        "price": 77,
+        "sku": "A730/A8PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "A730-NF-IN-ST-LS-BK",
+            "A8PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A730/A8PLUS OLED",
+        "price": 128,
+        "sku": "A730/A8PLUS-NF-OL-ST-LS-BK",
+        "skus": [
+            "A730-NF-OL-ST-LS-BK",
+            "A8PLUS-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A750",
+        "price": 60,
+        "sku": "A750-NF-IN-ST-LS-BK",
+        "skus": [
+            "A750-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A750 C/A",
+        "price": 85,
+        "sku": "A750-WF-IN-ST-LS-BK",
+        "skus": [
+            "A750-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A750 C/A OLED",
+        "price": 85,
+        "sku": "A750-WF-OL-ST-LS-BK",
+        "skus": [
+            "A750-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "A750 OLED",
+        "price": 128,
+        "sku": "A750-NF-OL-ST-LS-BK",
+        "skus": [
+            "A750-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E13",
+        "price": 38,
+        "sku": "E13-NF-IN-ST-LS-BK",
+        "skus": [
+            "E13-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E13 C/A",
+        "price": 46,
+        "sku": "E13-WF-IN-ST-LS-BK",
+        "skus": [
+            "E13-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E13 C/A VIVID",
+        "price": 55,
+        "sku": "E13-WF-IN-VD-LS-BK",
+        "skus": [
+            "E13-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "E20",
+        "price": 36,
+        "sku": "E20-NF-IN-ST-LS-BK",
+        "skus": [
+            "E20-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E20 C/A",
+        "price": 45,
+        "sku": "E20-WF-IN-ST-LS-BK",
+        "skus": [
+            "E20-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E20 C/A VIVID",
+        "price": 55,
+        "sku": "E20-WF-IN-VD-LS-BK",
+        "skus": [
+            "E20-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "E22",
+        "price": 38,
+        "sku": "E22-NF-IN-ST-LS-BK",
+        "skus": [
+            "E22-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E22 C/A",
+        "price": 45,
+        "sku": "E22-WF-IN-ST-LS-BK",
+        "skus": [
+            "E22-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E22 C/A VIVID",
+        "price": 60,
+        "sku": "E22-WF-IN-VD-LS-BK",
+        "skus": [
+            "E22-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "E32 C/A",
+        "price": 48,
+        "sku": "E32-WF-IN-ST-LS-BK",
+        "skus": [
+            "E32-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E32 C/A VIVID",
+        "price": 56,
+        "sku": "E32-WF-IN-VD-LS-BK",
+        "skus": [
+            "E32-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "E40/E30",
+        "price": 48,
+        "sku": "E40/E30-NF-IN-ST-LS-BK",
+        "skus": [
+            "E40-NF-IN-ST-LS-BK",
+            "E30-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E40/E30 C/A",
+        "price": 55,
+        "sku": "E40/E30-WF-IN-ST-LS-BK",
+        "skus": [
+            "E40-WF-IN-ST-LS-BK",
+            "E30-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E40/E30 C/A VIVID",
+        "price": 55,
+        "sku": "E40/E30-WF-IN-VD-LS-BK",
+        "skus": [
+            "E40-WF-IN-VD-LS-BK",
+            "E30-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "E4PLUS",
+        "price": 36,
+        "sku": "E4PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "E4PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E5PLAY DOURADO",
+        "price": 40,
+        "sku": "E5PLAY-NF-IN-ST-LS-GD",
+        "skus": [
+            "E5PLAY-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "E5PLAY PRETO",
+        "price": 40,
+        "sku": "E5PLAY-NF-IN-ST-LS-BK",
+        "skus": [
+            "E5PLAY-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E5PLUS DOURADO",
+        "price": 36,
+        "sku": "E5PLUS-NF-IN-ST-LS-GD",
+        "skus": [
+            "E5PLUS-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "E5PLUS PRETO",
+        "price": 36,
+        "sku": "E5PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "E5PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E6I C/A",
+        "price": 47,
+        "sku": "E6I-WF-IN-ST-LS-BK",
+        "skus": [
+            "E6I-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E6PLAY",
+        "price": 37,
+        "sku": "E6PLAY-NF-IN-ST-LS-BK",
+        "skus": [
+            "E6PLAY-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E6PLAY C/A",
+        "price": 45,
+        "sku": "E6PLAY-WF-IN-ST-LS-BK",
+        "skus": [
+            "E6PLAY-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E6PLAY C/A VIVID",
+        "price": 50,
+        "sku": "E6PLAY-WF-IN-VD-LS-BK",
+        "skus": [
+            "E6PLAY-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "E6PLUS",
+        "price": 37,
+        "sku": "E6PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "E6PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E6PLUS C/A",
+        "price": 45,
+        "sku": "E6PLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "E6PLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E6PLUS C/A VIVID",
+        "price": 45,
+        "sku": "E6PLUS-WF-IN-VD-LS-BK",
+        "skus": [
+            "E6PLUS-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "E6S C/A",
+        "price": 47,
+        "sku": "E6S-WF-IN-ST-LS-BK",
+        "skus": [
+            "E6S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E6S/E6I",
+        "price": 39,
+        "sku": "E6S/E6I-NF-IN-ST-LS-BK",
+        "skus": [
+            "E6S-NF-IN-ST-LS-BK",
+            "E6I-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E7 C/A",
+        "price": 45,
+        "sku": "E7-WF-IN-ST-LS-BK",
+        "skus": [
+            "E7-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E7 C/A VIVID",
+        "price": 58,
+        "sku": "E7-WF-IN-VD-LS-BK",
+        "skus": [
+            "E7-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "E7/E7POWER",
+        "price": 36,
+        "sku": "E7/E7POWER-NF-IN-ST-LS-BK",
+        "skus": [
+            "E7-NF-IN-ST-LS-BK",
+            "E7POWER-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "E7POWER C/A",
+        "price": 45,
+        "sku": "E7POWER-WF-IN-ST-LS-BK",
+        "skus": [
+            "E7POWER-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE20",
+        "price": 55,
+        "sku": "EDGE20-NF-IN-ST-LS-BK",
+        "skus": [
+            "EDGE20-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE20 C/A OLED",
+        "price": 0,
+        "sku": "EDGE20-WF-OL-ST-LS-BK",
+        "skus": [
+            "EDGE20-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE20 OLED",
+        "price": 185,
+        "sku": "EDGE20-NF-OL-ST-LS-BK",
+        "skus": [
+            "EDGE20-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE20LITE",
+        "price": 65,
+        "sku": "EDGE20LITE-NF-IN-ST-LS-BK",
+        "skus": [
+            "EDGE20LITE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE30 C/A OLED VIVID",
+        "price": 370,
+        "sku": "EDGE30-WF-OL-VD-LS-BK",
+        "skus": [
+            "EDGE30-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE30NEO",
+        "price": 90,
+        "sku": "EDGE30NEO-NF-IN-ST-LS-BK",
+        "skus": [
+            "EDGE30NEO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE30NEO OLED",
+        "price": 330,
+        "sku": "EDGE30NEO-NF-OL-ST-LS-BK",
+        "skus": [
+            "EDGE30NEO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE40 OLED",
+        "price": 195,
+        "sku": "EDGE40-NF-OL-ST-LS-BK",
+        "skus": [
+            "EDGE40-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE40NEO",
+        "price": 135,
+        "sku": "EDGE40NEO-NF-IN-ST-LS-BK",
+        "skus": [
+            "EDGE40NEO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE40NEO OLED",
+        "price": 270,
+        "sku": "EDGE40NEO-NF-OL-ST-LS-BK",
+        "skus": [
+            "EDGE40NEO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE50FUSION C/A",
+        "price": 130,
+        "sku": "EDGE50FUSION-WF-IN-ST-LS-BK",
+        "skus": [
+            "EDGE50FUSION-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE50FUSION OLED",
+        "price": 195,
+        "sku": "EDGE50FUSION-NF-OL-ST-LS-BK",
+        "skus": [
+            "EDGE50FUSION-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE50NEO OLED",
+        "price": 310,
+        "sku": "EDGE50NEO-NF-OL-ST-LS-BK",
+        "skus": [
+            "EDGE50NEO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "EDGE50ULTRA OLED",
+        "price": 420,
+        "sku": "EDGE50ULTRA-NF-OL-ST-LS-BK",
+        "skus": [
+            "EDGE50ULTRA-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "FRETE -运费",
+        "price": 0,
+        "sku": "FRETE运费-NF-IN-ST-LS-BK",
+        "skus": [
+            "FRETE运费-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G04 C/A",
+        "price": 50,
+        "sku": "G04-WF-IN-ST-LS-BK",
+        "skus": [
+            "G04-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G04 C/A VIVID",
+        "price": 50,
+        "sku": "G04-WF-IN-VD-LS-BK",
+        "skus": [
+            "G04-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G04/G24/G04S",
+        "price": 40,
+        "sku": "G04/G24/G04S-NF-IN-ST-LS-BK",
+        "skus": [
+            "G04-NF-IN-ST-LS-BK",
+            "G24-NF-IN-ST-LS-BK",
+            "G04S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G05/E15",
+        "price": 48,
+        "sku": "G05/E15-NF-IN-ST-LS-BK",
+        "skus": [
+            "G05-NF-IN-ST-LS-BK",
+            "E15-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G05/G15 C/A",
+        "price": 60,
+        "sku": "G05/G15-WF-IN-ST-LS-BK",
+        "skus": [
+            "G05-WF-IN-ST-LS-BK",
+            "G15-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G05/G15/E15",
+        "price": 48,
+        "sku": "G05/G15/E15-NF-IN-ST-LS-BK",
+        "skus": [
+            "G05-NF-IN-ST-LS-BK",
+            "G15-NF-IN-ST-LS-BK",
+            "E15-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G10/G20/G30",
+        "price": 37,
+        "sku": "G10/G20/G30-NF-IN-ST-LS-BK",
+        "skus": [
+            "G10-NF-IN-ST-LS-BK",
+            "G20-NF-IN-ST-LS-BK",
+            "G30-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G10/G20/G30 C/A",
+        "price": 45,
+        "sku": "G10/G20/G30-WF-IN-ST-LS-BK",
+        "skus": [
+            "G10-WF-IN-ST-LS-BK",
+            "G20-WF-IN-ST-LS-BK",
+            "G30-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G10/G20/G30 C/A VIVID",
+        "price": 58,
+        "sku": "G10/G20/G30-WF-IN-VD-LS-BK",
+        "skus": [
+            "G10-WF-IN-VD-LS-BK",
+            "G20-WF-IN-VD-LS-BK",
+            "G30-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G100",
+        "price": 70,
+        "sku": "G100-NF-IN-ST-LS-BK",
+        "skus": [
+            "G100-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G13/G23 C/A",
+        "price": 47,
+        "sku": "G13/G23-WF-IN-ST-LS-BK",
+        "skus": [
+            "G13-WF-IN-ST-LS-BK",
+            "G23-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G13/G23 C/A VIVID",
+        "price": 55,
+        "sku": "G13/G23-WF-IN-VD-LS-BK",
+        "skus": [
+            "G13-WF-IN-VD-LS-BK",
+            "G23-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G13/G23/G34/G53",
+        "price": 40,
+        "sku": "G13/G23/G34/G53-NF-IN-ST-LS-BK",
+        "skus": [
+            "G13-NF-IN-ST-LS-BK",
+            "G23-NF-IN-ST-LS-BK",
+            "G34-NF-IN-ST-LS-BK",
+            "G53-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G14 C/A",
+        "price": 55,
+        "sku": "G14-WF-IN-ST-LS-BK",
+        "skus": [
+            "G14-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G14 C/A VIVID",
+        "price": 68,
+        "sku": "G14-WF-IN-VD-LS-BK",
+        "skus": [
+            "G14-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G14/G54/G64",
+        "price": 48,
+        "sku": "G14/G54/G64-NF-IN-ST-LS-BK",
+        "skus": [
+            "G14-NF-IN-ST-LS-BK",
+            "G54-NF-IN-ST-LS-BK",
+            "G64-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G15/G15POWER",
+        "price": 48,
+        "sku": "G15/G15POWER-NF-IN-ST-LS-BK",
+        "skus": [
+            "G15-NF-IN-ST-LS-BK",
+            "G15POWER-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G200",
+        "price": 70,
+        "sku": "G200-NF-IN-ST-LS-BK",
+        "skus": [
+            "G200-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G22 C/A",
+        "price": 48,
+        "sku": "G22-WF-IN-ST-LS-BK",
+        "skus": [
+            "G22-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G22 C/A VIVID",
+        "price": 58,
+        "sku": "G22-WF-IN-VD-LS-BK",
+        "skus": [
+            "G22-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G22/E32/E32S/E22S",
+        "price": 42,
+        "sku": "G22/E32/E32S/E22S-NF-IN-ST-LS-BK",
+        "skus": [
+            "G22-NF-IN-ST-LS-BK",
+            "E32-NF-IN-ST-LS-BK",
+            "E32S-NF-IN-ST-LS-BK",
+            "E22S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G24 C/A",
+        "price": 50,
+        "sku": "G24-WF-IN-ST-LS-BK",
+        "skus": [
+            "G24-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G24 C/A VIVID",
+        "price": 50,
+        "sku": "G24-WF-IN-VD-LS-BK",
+        "skus": [
+            "G24-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G31 C/A",
+        "price": 57,
+        "sku": "G31-WF-IN-ST-LS-BK",
+        "skus": [
+            "G31-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G31 C/A OLED",
+        "price": 145,
+        "sku": "G31-WF-OL-ST-LS-BK",
+        "skus": [
+            "G31-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G31 OLED",
+        "price": 135,
+        "sku": "G31-NF-OL-ST-LS-BK",
+        "skus": [
+            "G31-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G31/G41/G71",
+        "price": 42,
+        "sku": "G31/G41/G71-NF-IN-ST-LS-BK",
+        "skus": [
+            "G31-NF-IN-ST-LS-BK",
+            "G41-NF-IN-ST-LS-BK",
+            "G71-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G32 C/A",
+        "price": 56,
+        "sku": "G32-WF-IN-ST-LS-BK",
+        "skus": [
+            "G32-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G32 C/A VIVID",
+        "price": 65,
+        "sku": "G32-WF-IN-VD-LS-BK",
+        "skus": [
+            "G32-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G32/G73",
+        "price": 46,
+        "sku": "G32/G73-NF-IN-ST-LS-BK",
+        "skus": [
+            "G32-NF-IN-ST-LS-BK",
+            "G73-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G34 C/A",
+        "price": 48,
+        "sku": "G34-WF-IN-ST-LS-BK",
+        "skus": [
+            "G34-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G34 C/A VIVID",
+        "price": 55,
+        "sku": "G34-WF-IN-VD-LS-BK",
+        "skus": [
+            "G34-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G35",
+        "price": 58,
+        "sku": "G35-NF-IN-ST-LS-BK",
+        "skus": [
+            "G35-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G35 C/A",
+        "price": 68,
+        "sku": "G35-WF-IN-ST-LS-BK",
+        "skus": [
+            "G35-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G35 C/A VIVID",
+        "price": 80,
+        "sku": "G35-WF-IN-VD-LS-BK",
+        "skus": [
+            "G35-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G41 C/A",
+        "price": 52,
+        "sku": "G41-WF-IN-ST-LS-BK",
+        "skus": [
+            "G41-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G41 C/A VIVID",
+        "price": 60,
+        "sku": "G41-WF-IN-VD-LS-BK",
+        "skus": [
+            "G41-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G42",
+        "price": 52,
+        "sku": "G42-NF-IN-ST-LS-BK",
+        "skus": [
+            "G42-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G42 C/A",
+        "price": 52,
+        "sku": "G42-WF-IN-ST-LS-BK",
+        "skus": [
+            "G42-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G42 C/A OLED",
+        "price": 150,
+        "sku": "G42-WF-OL-ST-LS-BK",
+        "skus": [
+            "G42-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G42 C/A VIVID",
+        "price": 65,
+        "sku": "G42-WF-IN-VD-LS-BK",
+        "skus": [
+            "G42-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G42 OLED",
+        "price": 135,
+        "sku": "G42-NF-OL-ST-LS-BK",
+        "skus": [
+            "G42-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G4PLAY C/A",
+        "price": 55,
+        "sku": "G4PLAY-WF-IN-ST-LS-BK",
+        "skus": [
+            "G4PLAY-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G50 5G",
+        "price": 45,
+        "sku": "G505G-NF-IN-ST-LS-BK",
+        "skus": [
+            "G505G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G50 5G C/A",
+        "price": 53,
+        "sku": "G505G-WF-IN-ST-LS-BK",
+        "skus": [
+            "G505G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G52/G82 C/A",
+        "price": 68,
+        "sku": "G52/G82-WF-IN-ST-LS-BK",
+        "skus": [
+            "G52-WF-IN-ST-LS-BK",
+            "G82-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G52/G82 C/A OLED",
+        "price": 170,
+        "sku": "G52/G82-WF-OL-ST-LS-BK",
+        "skus": [
+            "G52-WF-OL-ST-LS-BK",
+            "G82-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G52/G82 C/A VIVID",
+        "price": 75,
+        "sku": "G52/G82-WF-IN-VD-LS-BK",
+        "skus": [
+            "G52-WF-IN-VD-LS-BK",
+            "G82-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G52/G82 OLED",
+        "price": 155,
+        "sku": "G52/G82-NF-OL-ST-LS-BK",
+        "skus": [
+            "G52-NF-OL-ST-LS-BK",
+            "G82-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G52/G82/EDGE30",
+        "price": 50,
+        "sku": "G52/G82/EDGE30-NF-IN-ST-LS-BK",
+        "skus": [
+            "G52-NF-IN-ST-LS-BK",
+            "G82-NF-IN-ST-LS-BK",
+            "EDGE30-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G53 C/A",
+        "price": 50,
+        "sku": "G53-WF-IN-ST-LS-BK",
+        "skus": [
+            "G53-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G53 C/A VIVID",
+        "price": 55,
+        "sku": "G53-WF-IN-VD-LS-BK",
+        "skus": [
+            "G53-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G54 C/A",
+        "price": 60,
+        "sku": "G54-WF-IN-ST-LS-BK",
+        "skus": [
+            "G54-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G54 C/A VIVID",
+        "price": 75,
+        "sku": "G54-WF-IN-VD-LS-BK",
+        "skus": [
+            "G54-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G55 C/A",
+        "price": 70,
+        "sku": "G55-WF-IN-ST-LS-BK",
+        "skus": [
+            "G55-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G55/G14/G54/G64",
+        "price": 55,
+        "sku": "G55/G14/G54/G64-NF-IN-ST-LS-BK",
+        "skus": [
+            "G55-NF-IN-ST-LS-BK",
+            "G14-NF-IN-ST-LS-BK",
+            "G54-NF-IN-ST-LS-BK",
+            "G64-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G5G",
+        "price": 45,
+        "sku": "G5G-NF-IN-ST-LS-BK",
+        "skus": [
+            "G5G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G5GPLUS",
+        "price": 70,
+        "sku": "G5GPLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "G5GPLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G5PLUS",
+        "price": 36,
+        "sku": "G5PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "G5PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G5S DOURADO",
+        "price": 38,
+        "sku": "G5S-NF-IN-ST-LS-GD",
+        "skus": [
+            "G5S-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "G5S PRETO",
+        "price": 38,
+        "sku": "G5S-NF-IN-ST-LS-BK",
+        "skus": [
+            "G5S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G5SPLUS DOURADO",
+        "price": 37,
+        "sku": "G5SPLUS-NF-IN-ST-LS-GD",
+        "skus": [
+            "G5SPLUS-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "G5SPLUS PRETO",
+        "price": 37,
+        "sku": "G5SPLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "G5SPLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G6",
+        "price": 55,
+        "sku": "G6-NF-IN-ST-LS-BK",
+        "skus": [
+            "G6-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G60 C/A",
+        "price": 58,
+        "sku": "G60-WF-IN-ST-LS-BK",
+        "skus": [
+            "G60-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G60 C/A VIVID",
+        "price": 72,
+        "sku": "G60-WF-IN-VD-LS-BK",
+        "skus": [
+            "G60-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G60/G60S",
+        "price": 48,
+        "sku": "G60/G60S-NF-IN-ST-LS-BK",
+        "skus": [
+            "G60-NF-IN-ST-LS-BK",
+            "G60S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G60S C/A",
+        "price": 58,
+        "sku": "G60S-WF-IN-ST-LS-BK",
+        "skus": [
+            "G60S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G62",
+        "price": 48,
+        "sku": "G62-NF-IN-ST-LS-BK",
+        "skus": [
+            "G62-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G62 C/A",
+        "price": 53,
+        "sku": "G62-WF-IN-ST-LS-BK",
+        "skus": [
+            "G62-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G6PLAY C/A DOURADO",
+        "price": 45,
+        "sku": "G6PLAY-WF-IN-ST-LS-GD",
+        "skus": [
+            "G6PLAY-WF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "G6PLAY C/A PRETO",
+        "price": 45,
+        "sku": "G6PLAY-WF-IN-ST-LS-BK",
+        "skus": [
+            "G6PLAY-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G6PLAY/E5 DOURADO",
+        "price": 37,
+        "sku": "G6PLAY/E5-NF-IN-ST-LS-GD",
+        "skus": [
+            "G6PLAY-NF-IN-ST-LS-GD",
+            "E5-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "G6PLAY/E5 PRETO",
+        "price": 36,
+        "sku": "G6PLAY/E5-NF-IN-ST-LS-BK",
+        "skus": [
+            "G6PLAY-NF-IN-ST-LS-BK",
+            "E5-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G6PLUS",
+        "price": 44,
+        "sku": "G6PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "G6PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G7/G7PLUS",
+        "price": 44,
+        "sku": "G7/G7PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "G7-NF-IN-ST-LS-BK",
+            "G7PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G71 C/A",
+        "price": 55,
+        "sku": "G71-WF-IN-ST-LS-BK",
+        "skus": [
+            "G71-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G71 C/A VIVID",
+        "price": 60,
+        "sku": "G71-WF-IN-VD-LS-BK",
+        "skus": [
+            "G71-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G73 C/A",
+        "price": 70,
+        "sku": "G73-WF-IN-ST-LS-BK",
+        "skus": [
+            "G73-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G73 C/A VIVID",
+        "price": 70,
+        "sku": "G73-WF-IN-VD-LS-BK",
+        "skus": [
+            "G73-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G75",
+        "price": 55,
+        "sku": "G75-NF-IN-ST-LS-BK",
+        "skus": [
+            "G75-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G7PLAY",
+        "price": 34,
+        "sku": "G7PLAY-NF-IN-ST-LS-BK",
+        "skus": [
+            "G7PLAY-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G7PLAY C/A",
+        "price": 55,
+        "sku": "G7PLAY-WF-IN-ST-LS-BK",
+        "skus": [
+            "G7PLAY-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G7PLAY C/A VIVID",
+        "price": 62,
+        "sku": "G7PLAY-WF-IN-VD-LS-BK",
+        "skus": [
+            "G7PLAY-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G7POWER",
+        "price": 40,
+        "sku": "G7POWER-NF-IN-ST-LS-BK",
+        "skus": [
+            "G7POWER-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G7POWER C/A",
+        "price": 57,
+        "sku": "G7POWER-WF-IN-ST-LS-BK",
+        "skus": [
+            "G7POWER-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8",
+        "price": 42,
+        "sku": "G8-NF-IN-ST-LS-BK",
+        "skus": [
+            "G8-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8 C/A",
+        "price": 54,
+        "sku": "G8-WF-IN-ST-LS-BK",
+        "skus": [
+            "G8-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8 C/A VIVID",
+        "price": 62,
+        "sku": "G8-WF-IN-VD-LS-BK",
+        "skus": [
+            "G8-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G84",
+        "price": 57,
+        "sku": "G84-NF-IN-ST-LS-BK",
+        "skus": [
+            "G84-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G84 C/A",
+        "price": 67,
+        "sku": "G84-WF-IN-ST-LS-BK",
+        "skus": [
+            "G84-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G84 C/A OLED",
+        "price": 255,
+        "sku": "G84-WF-OL-ST-LS-BK",
+        "skus": [
+            "G84-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G84 OLED",
+        "price": 220,
+        "sku": "G84-NF-OL-ST-LS-BK",
+        "skus": [
+            "G84-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8PLAY C/A VIVID",
+        "price": 70,
+        "sku": "G8PLAY-WF-IN-VD-LS-BK",
+        "skus": [
+            "G8PLAY-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G8PLAY/ONE MACRO",
+        "price": 38,
+        "sku": "G8PLAY/MACRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "G8PLAY-NF-IN-ST-LS-BK",
+            "MACRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8PLAY/ONE MACRO C/A",
+        "price": 70,
+        "sku": "G8PLAY/MACRO-WF-IN-ST-LS-BK",
+        "skus": [
+            "G8PLAY-WF-IN-ST-LS-BK",
+            "MACRO-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8PLUS",
+        "price": 42,
+        "sku": "G8PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "G8PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8PLUS C/A",
+        "price": 57,
+        "sku": "G8PLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "G8PLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8PLUS C/A VIVID",
+        "price": 70,
+        "sku": "G8PLUS-WF-IN-VD-LS-BK",
+        "skus": [
+            "G8PLUS-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G8POWER",
+        "price": 55,
+        "sku": "G8POWER-NF-IN-ST-LS-BK",
+        "skus": [
+            "G8POWER-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8POWER C/A",
+        "price": 75,
+        "sku": "G8POWER-WF-IN-ST-LS-BK",
+        "skus": [
+            "G8POWER-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8POWER C/A VIVID",
+        "price": 85,
+        "sku": "G8POWER-WF-IN-VD-LS-BK",
+        "skus": [
+            "G8POWER-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G8POWERLITE",
+        "price": 37,
+        "sku": "G8POWERLITE-NF-IN-ST-LS-BK",
+        "skus": [
+            "G8POWERLITE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G8POWERLITE C/A",
+        "price": 47,
+        "sku": "G8POWERLITE-WF-IN-ST-LS-BK",
+        "skus": [
+            "G8POWERLITE-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G9PLAY C/A VIVID",
+        "price": 65,
+        "sku": "G9PLAY-WF-IN-VD-LS-BK",
+        "skus": [
+            "G9PLAY-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G9PLAY/E7PLUS",
+        "price": 38,
+        "sku": "G9PLAY/E7PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "G9PLAY-NF-IN-ST-LS-BK",
+            "E7PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G9PLAY/E7PLUS C/A",
+        "price": 47,
+        "sku": "G9PLAY/E7PLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "G9PLAY-WF-IN-ST-LS-BK",
+            "E7PLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G9PLUS",
+        "price": 50,
+        "sku": "G9PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "G9PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G9PLUS C/A",
+        "price": 58,
+        "sku": "G9PLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "G9PLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G9PLUS C/A VIVID",
+        "price": 68,
+        "sku": "G9PLUS-WF-IN-VD-LS-BK",
+        "skus": [
+            "G9PLUS-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "G9POWER",
+        "price": 45,
+        "sku": "G9POWER-NF-IN-ST-LS-BK",
+        "skus": [
+            "G9POWER-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "G9POWER C/A",
+        "price": 56,
+        "sku": "G9POWER-WF-IN-ST-LS-BK",
+        "skus": [
+            "G9POWER-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT10PLAY/HOT11PLAY",
+        "price": 60,
+        "sku": "HOT10PLAY/HOT11PLAY-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT10PLAY-NF-IN-ST-LS-BK",
+            "HOT11PLAY-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT11/HOT10S/X689",
+        "price": 50,
+        "sku": "HOT11/HOT10S/X689-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT11-NF-IN-ST-LS-BK",
+            "HOT10S-NF-IN-ST-LS-BK",
+            "X689-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT11/X658/X659",
+        "price": 50,
+        "sku": "HOT11/X658/X659-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT11-NF-IN-ST-LS-BK",
+            "X658-NF-IN-ST-LS-BK",
+            "X659-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT11S",
+        "price": 53,
+        "sku": "HOT11S-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT11S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT20 5G",
+        "price": 53,
+        "sku": "HOT205G-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT205G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT20I",
+        "price": 42,
+        "sku": "HOT20I-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT20I-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT30I",
+        "price": 43,
+        "sku": "HOT30I-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT30I-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT30PLAY",
+        "price": 53,
+        "sku": "HOT30PLAY-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT30PLAY-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT40PRO/HOT30/NOTE30 5G",
+        "price": 58,
+        "sku": "HOT40PRO/HOT30/NOTE305G-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT40PRO-NF-IN-ST-LS-BK",
+            "HOT30-NF-IN-ST-LS-BK",
+            "NOTE305G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT50",
+        "price": 62,
+        "sku": "HOT50-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT50-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX HOT50I",
+        "price": 55,
+        "sku": "HOT50I-NF-IN-ST-LS-BK",
+        "skus": [
+            "HOT50I-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX NOTE10PRO",
+        "price": 60,
+        "sku": "INFINIXNOTE10PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "INFINIXNOTE10PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX SMART6",
+        "price": 40,
+        "sku": "SMART6-NF-IN-ST-LS-BK",
+        "skus": [
+            "SMART6-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX SMART7",
+        "price": 42,
+        "sku": "SMART7-NF-IN-ST-LS-BK",
+        "skus": [
+            "SMART7-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX SMART8/SMART8PRO",
+        "price": 48,
+        "sku": "SMART8/SMART8PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "SMART8-NF-IN-ST-LS-BK",
+            "SMART8PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "INFINIX SMART9",
+        "price": 55,
+        "sku": "SMART9-NF-IN-ST-LS-BK",
+        "skus": [
+            "SMART9-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 6G BRANCO",
+        "price": 30,
+        "sku": "6G-NF-IN-ST-LS-WH",
+        "skus": [
+            "6G-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 6G PRETO",
+        "price": 30,
+        "sku": "6G-NF-IN-ST-LS-BK",
+        "skus": [
+            "6G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 6S BRANCO",
+        "price": 40,
+        "sku": "6S-NF-IN-ST-LS-WH",
+        "skus": [
+            "6S-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 6S PRETO",
+        "price": 40,
+        "sku": "6S-NF-IN-ST-LS-BK",
+        "skus": [
+            "6S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 6SPLUS BRANCO",
+        "price": 47,
+        "sku": "6SPLUS-NF-IN-ST-LS-WH",
+        "skus": [
+            "6SPLUS-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 6SPLUS PRETO",
+        "price": 47,
+        "sku": "6SPLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "6SPLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 7G BRANCO",
+        "price": 40,
+        "sku": "7G-NF-IN-ST-LS-WH",
+        "skus": [
+            "7G-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 7G PRETO",
+        "price": 40,
+        "sku": "7G-NF-IN-ST-LS-BK",
+        "skus": [
+            "7G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 7G VIVID BRANCO",
+        "price": 42,
+        "sku": "7G-NF-IN-VD-LS-WH",
+        "skus": [
+            "7G-NF-IN-VD-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 7G VIVID PRETO",
+        "price": 42,
+        "sku": "7G-NF-IN-VD-LS-BK",
+        "skus": [
+            "7G-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 7PLUS BRANCO",
+        "price": 47,
+        "sku": "7PLUS-NF-IN-ST-LS-WH",
+        "skus": [
+            "7PLUS-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 7PLUS PRETO",
+        "price": 47,
+        "sku": "7PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "7PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 7PLUS VIVID BRANCO",
+        "price": 55,
+        "sku": "7PLUS-NF-IN-VD-LS-WH",
+        "skus": [
+            "7PLUS-NF-IN-VD-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 7PLUS VIVID PRETO",
+        "price": 55,
+        "sku": "7PLUS-NF-IN-VD-LS-BK",
+        "skus": [
+            "7PLUS-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 8G BRANCO",
+        "price": 40,
+        "sku": "8G-NF-IN-ST-LS-WH",
+        "skus": [
+            "8G-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 8G PRETO",
+        "price": 40,
+        "sku": "8G-NF-IN-ST-LS-BK",
+        "skus": [
+            "8G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 8G VIVID BRANCO",
+        "price": 42,
+        "sku": "8G-NF-IN-VD-LS-WH",
+        "skus": [
+            "8G-NF-IN-VD-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 8G VIVID PRETO",
+        "price": 42,
+        "sku": "8G-NF-IN-VD-LS-BK",
+        "skus": [
+            "8G-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 8PLUS BRANCO",
+        "price": 43,
+        "sku": "8PLUS-NF-IN-ST-LS-WH",
+        "skus": [
+            "8PLUS-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 8PLUS PRETO",
+        "price": 43,
+        "sku": "8PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "8PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP 8PLUS VIVID BRANCO",
+        "price": 55,
+        "sku": "8PLUS-NF-IN-VD-LS-WH",
+        "skus": [
+            "8PLUS-NF-IN-VD-LS-WH"
+        ]
+    },
+    {
+        "name": "IP 8PLUS VIVID PRETO",
+        "price": 55,
+        "sku": "8PLUS-NF-IN-VD-LS-BK",
+        "skus": [
+            "8PLUS-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X",
+        "price": 50,
+        "sku": "X-NF-IN-ST-LS-BK",
+        "skus": [
+            "X-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X JK",
+        "price": 72,
+        "sku": "X-NF-IN-JK-LS-BK",
+        "skus": [
+            "X-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X OLED",
+        "price": 130,
+        "sku": "X-NF-OL-ST-LS-BK",
+        "skus": [
+            "X-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X VIVID",
+        "price": 57,
+        "sku": "X-NF-IN-VD-LS-BK",
+        "skus": [
+            "X-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X 铁盒",
+        "price": 75,
+        "sku": "X-NF-IN-IM-LS-BK",
+        "skus": [
+            "X-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11",
+        "price": 50,
+        "sku": "11-NF-IN-ST-LS-BK",
+        "skus": [
+            "11-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11 JK",
+        "price": 68,
+        "sku": "11-NF-IN-JK-LS-BK",
+        "skus": [
+            "11-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11 VIVID",
+        "price": 57,
+        "sku": "11-NF-IN-VD-LS-BK",
+        "skus": [
+            "11-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11 铁盒",
+        "price": 68,
+        "sku": "11-NF-IN-IM-LS-BK",
+        "skus": [
+            "11-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PRO",
+        "price": 58,
+        "sku": "11PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "11PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PRO JK",
+        "price": 85,
+        "sku": "11PRO-NF-IN-JK-LS-BK",
+        "skus": [
+            "11PRO-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PRO OLED",
+        "price": 170,
+        "sku": "11PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "11PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PRO VIVID",
+        "price": 72,
+        "sku": "11PRO-NF-IN-VD-LS-BK",
+        "skus": [
+            "11PRO-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PRO 铁盒",
+        "price": 80,
+        "sku": "11PRO-NF-IN-IM-LS-BK",
+        "skus": [
+            "11PRO-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PROMAX",
+        "price": 68,
+        "sku": "11PROMAX-NF-IN-ST-LS-BK",
+        "skus": [
+            "11PROMAX-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PROMAX JK",
+        "price": 85,
+        "sku": "11PROMAX-NF-IN-JK-LS-BK",
+        "skus": [
+            "11PROMAX-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PROMAX OLED",
+        "price": 195,
+        "sku": "11PROMAX-NF-OL-ST-LS-BK",
+        "skus": [
+            "11PROMAX-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PROMAX VIVID",
+        "price": 72,
+        "sku": "11PROMAX-NF-IN-VD-LS-BK",
+        "skus": [
+            "11PROMAX-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X11PROMAX 铁盒",
+        "price": 85,
+        "sku": "11PROMAX-NF-IN-IM-LS-BK",
+        "skus": [
+            "11PROMAX-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12/X12PRO",
+        "price": 65,
+        "sku": "12/12PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "12-NF-IN-ST-LS-BK",
+            "12PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12/X12PRO JK",
+        "price": 88,
+        "sku": "12/12PRO-NF-IN-JK-LS-BK",
+        "skus": [
+            "12-NF-IN-JK-LS-BK",
+            "12PRO-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12/X12PRO OLED",
+        "price": 195,
+        "sku": "12/12PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "12-NF-OL-ST-LS-BK",
+            "12PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12/X12PRO VIVID",
+        "price": 72,
+        "sku": "12/12PRO-NF-IN-VD-LS-BK",
+        "skus": [
+            "12-NF-IN-VD-LS-BK",
+            "12PRO-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12/X12PRO 铁盒",
+        "price": 110,
+        "sku": "12/12PRO-NF-IN-IM-LS-BK",
+        "skus": [
+            "12-NF-IN-IM-LS-BK",
+            "12PRO-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12MINI",
+        "price": 115,
+        "sku": "12MINI-NF-IN-ST-LS-BK",
+        "skus": [
+            "12MINI-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12MINI 铁盒",
+        "price": 145,
+        "sku": "12MINI-NF-IN-IM-LS-BK",
+        "skus": [
+            "12MINI-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12PROMAX",
+        "price": 105,
+        "sku": "12PROMAX-NF-IN-ST-LS-BK",
+        "skus": [
+            "12PROMAX-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12PROMAX JK",
+        "price": 150,
+        "sku": "12PROMAX-NF-IN-JK-LS-BK",
+        "skus": [
+            "12PROMAX-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12PROMAX OLED",
+        "price": 285,
+        "sku": "12PROMAX-NF-OL-ST-LS-BK",
+        "skus": [
+            "12PROMAX-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12PROMAX VIVID",
+        "price": 95,
+        "sku": "12PROMAX-NF-IN-VD-LS-BK",
+        "skus": [
+            "12PROMAX-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X12PROMAX 铁盒",
+        "price": 160,
+        "sku": "12PROMAX-NF-IN-IM-LS-BK",
+        "skus": [
+            "12PROMAX-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13",
+        "price": 98,
+        "sku": "13-NF-IN-ST-LS-BK",
+        "skus": [
+            "13-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13 JK",
+        "price": 130,
+        "sku": "13-NF-IN-JK-LS-BK",
+        "skus": [
+            "13-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13 OLED",
+        "price": 245,
+        "sku": "13-NF-OL-ST-LS-BK",
+        "skus": [
+            "13-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13 VIVID",
+        "price": 88,
+        "sku": "13-NF-IN-VD-LS-BK",
+        "skus": [
+            "13-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13 铁盒",
+        "price": 140,
+        "sku": "13-NF-IN-IM-LS-BK",
+        "skus": [
+            "13-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PRO",
+        "price": 130,
+        "sku": "13PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "13PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PRO JK",
+        "price": 130,
+        "sku": "13PRO-NF-IN-JK-LS-BK",
+        "skus": [
+            "13PRO-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PRO OLED",
+        "price": 330,
+        "sku": "13PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "13PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PRO VIVID",
+        "price": 148,
+        "sku": "13PRO-NF-IN-VD-LS-BK",
+        "skus": [
+            "13PRO-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PRO 铁盒",
+        "price": 165,
+        "sku": "13PRO-NF-IN-IM-LS-BK",
+        "skus": [
+            "13PRO-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PROMAX JK",
+        "price": 195,
+        "sku": "13PROMAX-NF-IN-JK-LS-BK",
+        "skus": [
+            "13PROMAX-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PROMAX OLED",
+        "price": 340,
+        "sku": "13PROMAX-NF-OL-ST-LS-BK",
+        "skus": [
+            "13PROMAX-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PROMAX VIVID",
+        "price": 145,
+        "sku": "13PROMAX-NF-IN-VD-LS-BK",
+        "skus": [
+            "13PROMAX-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X13PROMAX 铁盒",
+        "price": 210,
+        "sku": "13PROMAX-NF-IN-IM-LS-BK",
+        "skus": [
+            "13PROMAX-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14 OLED",
+        "price": 245,
+        "sku": "14-NF-OL-ST-LS-BK",
+        "skus": [
+            "14-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14 VIVID",
+        "price": 115,
+        "sku": "14-NF-IN-VD-LS-BK",
+        "skus": [
+            "14-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14 铁盒",
+        "price": 140,
+        "sku": "14-NF-IN-IM-LS-BK",
+        "skus": [
+            "14-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PLUS VIVID",
+        "price": 145,
+        "sku": "14PLUS-WF-IN-VD-LS-BK",
+        "skus": [
+            "14PLUS-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PRO JK",
+        "price": 190,
+        "sku": "14PRO-NF-IN-JK-LS-BK",
+        "skus": [
+            "14PRO-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PRO OLED",
+        "price": 600,
+        "sku": "14PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "14PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PRO VIVID",
+        "price": 170,
+        "sku": "14PRO-NF-IN-VD-LS-BK",
+        "skus": [
+            "14PRO-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PRO 铁盒",
+        "price": 205,
+        "sku": "14PRO-NF-IN-IM-LS-BK",
+        "skus": [
+            "14PRO-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PROMAX JK",
+        "price": 225,
+        "sku": "14PROMAX-NF-IN-JK-LS-BK",
+        "skus": [
+            "14PROMAX-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PROMAX OLED",
+        "price": 780,
+        "sku": "14PROMAX-NF-OL-ST-LS-BK",
+        "skus": [
+            "14PROMAX-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PROMAX VIVID",
+        "price": 180,
+        "sku": "14PROMAX-NF-IN-VD-LS-BK",
+        "skus": [
+            "14PROMAX-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X14PROMAX 铁盒",
+        "price": 250,
+        "sku": "14PROMAX-NF-IN-IM-LS-BK",
+        "skus": [
+            "14PROMAX-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15",
+        "price": 155,
+        "sku": "15-NF-IN-ST-LS-BK",
+        "skus": [
+            "15-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15 OLED",
+        "price": 520,
+        "sku": "15-NF-OL-ST-LS-BK",
+        "skus": [
+            "15-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15 铁盒",
+        "price": 220,
+        "sku": "15-NF-IN-IM-LS-BK",
+        "skus": [
+            "15-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15PRO OLED",
+        "price": 635,
+        "sku": "15PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "15PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15PRO VIVID",
+        "price": 180,
+        "sku": "15PRO-NF-IN-VD-LS-BK",
+        "skus": [
+            "15PRO-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15PRO 铁盒",
+        "price": 225,
+        "sku": "15PRO-NF-IN-IM-LS-BK",
+        "skus": [
+            "15PRO-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15PROMAX JK",
+        "price": 235,
+        "sku": "15PROMAX-NF-IN-JK-LS-BK",
+        "skus": [
+            "15PROMAX-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15PROMAX OLED",
+        "price": 920,
+        "sku": "15PROMAX-NF-OL-ST-LS-BK",
+        "skus": [
+            "15PROMAX-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15PROMAX VIVID",
+        "price": 200,
+        "sku": "15PROMAX-NF-IN-VD-LS-BK",
+        "skus": [
+            "15PROMAX-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X15PROMAX 铁盒",
+        "price": 285,
+        "sku": "15PROMAX-NF-IN-IM-LS-BK",
+        "skus": [
+            "15PROMAX-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP X16 OLED",
+        "price": 680,
+        "sku": "16-NF-OL-ST-LS-BK",
+        "skus": [
+            "16-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XR",
+        "price": 50,
+        "sku": "XR-NF-IN-ST-LS-BK",
+        "skus": [
+            "XR-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XR JK",
+        "price": 68,
+        "sku": "XR-NF-IN-JK-LS-BK",
+        "skus": [
+            "XR-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XR VIVID",
+        "price": 57,
+        "sku": "XR-NF-IN-VD-LS-BK",
+        "skus": [
+            "XR-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XR 铁盒",
+        "price": 68,
+        "sku": "XR-NF-IN-IM-LS-BK",
+        "skus": [
+            "XR-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XS",
+        "price": 50,
+        "sku": "XS-NF-IN-ST-LS-BK",
+        "skus": [
+            "XS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XS JK",
+        "price": 72,
+        "sku": "XS-NF-IN-JK-LS-BK",
+        "skus": [
+            "XS-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XS OLED",
+        "price": 130,
+        "sku": "XS-NF-OL-ST-LS-BK",
+        "skus": [
+            "XS-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XS VIVID",
+        "price": 55,
+        "sku": "XS-NF-IN-VD-LS-BK",
+        "skus": [
+            "XS-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XS 铁盒",
+        "price": 68,
+        "sku": "XS-NF-IN-IM-LS-BK",
+        "skus": [
+            "XS-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XSMAX",
+        "price": 63,
+        "sku": "XSMAX-NF-IN-ST-LS-BK",
+        "skus": [
+            "XSMAX-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XSMAX JK",
+        "price": 88,
+        "sku": "XSMAX-NF-IN-JK-LS-BK",
+        "skus": [
+            "XSMAX-NF-IN-JK-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XSMAX OLED",
+        "price": 165,
+        "sku": "XSMAX-NF-OL-ST-LS-BK",
+        "skus": [
+            "XSMAX-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XSMAX VIVID",
+        "price": 72,
+        "sku": "XSMAX-NF-IN-VD-LS-BK",
+        "skus": [
+            "XSMAX-NF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "IP XSMAX 铁盒",
+        "price": 80,
+        "sku": "XSMAX-NF-IN-IM-LS-BK",
+        "skus": [
+            "XSMAX-NF-IN-IM-LS-BK"
+        ]
+    },
+    {
+        "name": "J120",
+        "price": 30,
+        "sku": "J120-NF-IN-ST-LS-BK",
+        "skus": [
+            "J120-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J250/J2PRO",
+        "price": 0,
+        "sku": "J250/J2PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "J250-NF-IN-ST-LS-BK",
+            "J2PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J260/J2CORE",
+        "price": 36,
+        "sku": "J260/J2CORE-NF-IN-ST-LS-BK",
+        "skus": [
+            "J260-NF-IN-ST-LS-BK",
+            "J2CORE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J4 AZUL",
+        "price": 40,
+        "sku": "J4-NF-IN-ST-LS-BL",
+        "skus": [
+            "J4-NF-IN-ST-LS-BL"
+        ]
+    },
+    {
+        "name": "J4 OLED DOURADO",
+        "price": 90,
+        "sku": "J4-NF-OL-ST-LS-GD",
+        "skus": [
+            "J4-NF-OL-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "J4 PRETO",
+        "price": 38,
+        "sku": "J4-NF-IN-ST-LS-BK",
+        "skus": [
+            "J4-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J4 ROXO",
+        "price": 40,
+        "sku": "J4-NF-IN-ST-LS-PP",
+        "skus": [
+            "J4-NF-IN-ST-LS-PP"
+        ]
+    },
+    {
+        "name": "J4PLUS/J4CORE/J6PLUS",
+        "price": 34,
+        "sku": "J4PLUS/J4CORE/J6PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "J4PLUS-NF-IN-ST-LS-BK",
+            "J4CORE-NF-IN-ST-LS-BK",
+            "J6PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J5 DOURADO",
+        "price": 40,
+        "sku": "J5-NF-IN-ST-LS-GD",
+        "skus": [
+            "J5-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "J5 OLED",
+        "price": 90,
+        "sku": "J5-NF-OL-ST-LS-BK",
+        "skus": [
+            "J5-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J5 PRETO",
+        "price": 40,
+        "sku": "J5-NF-IN-ST-LS-BK",
+        "skus": [
+            "J5-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J530/J5PRO DOURADO",
+        "price": 43,
+        "sku": "J530/J5PRO-NF-IN-ST-LS-GD",
+        "skus": [
+            "J530-NF-IN-ST-LS-GD",
+            "J5PRO-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "J530/J5PRO OLED PRETO",
+        "price": 98,
+        "sku": "J530/J5PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "J530-NF-OL-ST-LS-BK",
+            "J5PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J530/J5PRO PRETO",
+        "price": 43,
+        "sku": "J530/J5PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "J530-NF-IN-ST-LS-BK",
+            "J5PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J5PRIME BRANCO",
+        "price": 35,
+        "sku": "J5PRIME-NF-IN-ST-LS-WH",
+        "skus": [
+            "J5PRIME-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "J5PRIME PRETO",
+        "price": 35,
+        "sku": "J5PRIME-NF-IN-ST-LS-BK",
+        "skus": [
+            "J5PRIME-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J6",
+        "price": 35,
+        "sku": "J6-NF-IN-ST-LS-BK",
+        "skus": [
+            "J6-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J6 OLED",
+        "price": 140,
+        "sku": "J6-NF-OL-ST-LS-BK",
+        "skus": [
+            "J6-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J7 DOURADO",
+        "price": 40,
+        "sku": "J7-NF-IN-ST-LS-GD",
+        "skus": [
+            "J7-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "J7 PRETO",
+        "price": 40,
+        "sku": "J7-NF-IN-ST-LS-BK",
+        "skus": [
+            "J7-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J710 OLED DOURADO",
+        "price": 92,
+        "sku": "J710-NF-OL-ST-LS-GD",
+        "skus": [
+            "J710-NF-OL-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "J710/J7METAL PRETO",
+        "price": 42,
+        "sku": "J710/J7METAL-NF-IN-ST-LS-BK",
+        "skus": [
+            "J710-NF-IN-ST-LS-BK",
+            "J7METAL-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J730/J7PRO DOURADO",
+        "price": 42,
+        "sku": "J730/J7PRO-NF-IN-ST-LS-GD",
+        "skus": [
+            "J730-NF-IN-ST-LS-GD",
+            "J7PRO-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "J730/J7PRO OLED DOURADO",
+        "price": 95,
+        "sku": "J730/J7PRO-NF-OL-ST-LS-GD",
+        "skus": [
+            "J730-NF-OL-ST-LS-GD",
+            "J7PRO-NF-OL-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "J730/J7PRO OLED PRETO",
+        "price": 95,
+        "sku": "J730/J7PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "J730-NF-OL-ST-LS-BK",
+            "J7PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J730/J7PRO PRETO",
+        "price": 42,
+        "sku": "J730/J7PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "J730-NF-IN-ST-LS-BK",
+            "J7PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J7PRIME BRANCO",
+        "price": 35,
+        "sku": "J7PRIME-NF-IN-ST-LS-WH",
+        "skus": [
+            "J7PRIME-NF-IN-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "J7PRIME DOURADO",
+        "price": 35,
+        "sku": "J7PRIME-NF-IN-ST-LS-GD",
+        "skus": [
+            "J7PRIME-NF-IN-ST-LS-GD"
+        ]
+    },
+    {
+        "name": "J7PRIME PRETO",
+        "price": 35,
+        "sku": "J7PRIME-NF-IN-ST-LS-BK",
+        "skus": [
+            "J7PRIME-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J7PRIME2/J7P2/G611 MARROM",
+        "price": 38,
+        "sku": "J7PRIME2/J7P2/G611-NF-IN-ST-LS-BR",
+        "skus": [
+            "J7PRIME2-NF-IN-ST-LS-BR",
+            "J7P2-NF-IN-ST-LS-BR",
+            "G611-NF-IN-ST-LS-BR"
+        ]
+    },
+    {
+        "name": "J8",
+        "price": 37,
+        "sku": "J8-NF-IN-ST-LS-BK",
+        "skus": [
+            "J8-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "J8 OLED",
+        "price": 145,
+        "sku": "J8-NF-OL-ST-LS-BK",
+        "skus": [
+            "J8-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K10",
+        "price": 0,
+        "sku": "K10-NF-IN-ST-LS-BK",
+        "skus": [
+            "K10-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K10 2017",
+        "price": 50,
+        "sku": "K102017-NF-IN-ST-LS-BK",
+        "skus": [
+            "K102017-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K10 2017 C/A",
+        "price": 50,
+        "sku": "K102017-WF-IN-ST-LS-BK",
+        "skus": [
+            "K102017-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K10 POWER C/A",
+        "price": 50,
+        "sku": "K10POWER-WF-IN-ST-LS-BK",
+        "skus": [
+            "K10POWER-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K10POWER",
+        "price": 45,
+        "sku": "K10POWER-NF-IN-ST-LS-BK",
+        "skus": [
+            "K10POWER-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K10TV",
+        "price": 35,
+        "sku": "K10TV-NF-IN-ST-LS-BK",
+        "skus": [
+            "K10TV-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K10TV C/A",
+        "price": 47,
+        "sku": "K10TV-WF-IN-ST-LS-BK",
+        "skus": [
+            "K10TV-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K11PLUS C/A",
+        "price": 52,
+        "sku": "K11PLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "K11PLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K22/K22PLUS",
+        "price": 43,
+        "sku": "K22/K22PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "K22-NF-IN-ST-LS-BK",
+            "K22PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K22/K22PLUS C/A",
+        "price": 50,
+        "sku": "K22/K22PLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "K22-WF-IN-ST-LS-BK",
+            "K22PLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K40/K12/K12PLUS",
+        "price": 46,
+        "sku": "K40/K12/K12PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "K40-NF-IN-ST-LS-BK",
+            "K12-NF-IN-ST-LS-BK",
+            "K12PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K40/K12/K12PLUS C/A",
+        "price": 58,
+        "sku": "K40/K12/K12PLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "K40-WF-IN-ST-LS-BK",
+            "K12-WF-IN-ST-LS-BK",
+            "K12PLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K40S",
+        "price": 42,
+        "sku": "K40S-NF-IN-ST-LS-BK",
+        "skus": [
+            "K40S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K40S C/A",
+        "price": 53,
+        "sku": "K40S-WF-IN-ST-LS-BK",
+        "skus": [
+            "K40S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K41S",
+        "price": 42,
+        "sku": "K41S-NF-IN-ST-LS-BK",
+        "skus": [
+            "K41S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K41S C/A",
+        "price": 57,
+        "sku": "K41S-WF-IN-ST-LS-BK",
+        "skus": [
+            "K41S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K42 C/A",
+        "price": 54,
+        "sku": "K42-WF-IN-ST-LS-BK",
+        "skus": [
+            "K42-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K42/K52/K62",
+        "price": 46,
+        "sku": "K42/K52/K62-NF-IN-ST-LS-BK",
+        "skus": [
+            "K42-NF-IN-ST-LS-BK",
+            "K52-NF-IN-ST-LS-BK",
+            "K62-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K50/K12PRIME C/A",
+        "price": 56,
+        "sku": "K50/K12PRIME-WF-IN-ST-LS-BK",
+        "skus": [
+            "K50-WF-IN-ST-LS-BK",
+            "K12PRIME-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K50/K12PRIME/K12MAX",
+        "price": 42,
+        "sku": "K50/K12PRIME/K12MAX-NF-IN-ST-LS-BK",
+        "skus": [
+            "K50-NF-IN-ST-LS-BK",
+            "K12PRIME-NF-IN-ST-LS-BK",
+            "K12MAX-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K50S",
+        "price": 40,
+        "sku": "K50S-NF-IN-ST-LS-BK",
+        "skus": [
+            "K50S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K50S C/A",
+        "price": 63,
+        "sku": "K50S-WF-IN-ST-LS-BK",
+        "skus": [
+            "K50S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K51",
+        "price": 52,
+        "sku": "K51-NF-IN-ST-LS-BK",
+        "skus": [
+            "K51-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K51S",
+        "price": 45,
+        "sku": "K51S-NF-IN-ST-LS-BK",
+        "skus": [
+            "K51S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K51S C/A",
+        "price": 55,
+        "sku": "K51S-WF-IN-ST-LS-BK",
+        "skus": [
+            "K51S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K52/K62 C/A",
+        "price": 54,
+        "sku": "K52/K62-WF-IN-ST-LS-BK",
+        "skus": [
+            "K52-WF-IN-ST-LS-BK",
+            "K62-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K61",
+        "price": 46,
+        "sku": "K61-NF-IN-ST-LS-BK",
+        "skus": [
+            "K61-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K61 C/A",
+        "price": 56,
+        "sku": "K61-WF-IN-ST-LS-BK",
+        "skus": [
+            "K61-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K8PLUS",
+        "price": 42,
+        "sku": "K8PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "K8PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K8PLUS C/A",
+        "price": 47,
+        "sku": "K8PLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "K8PLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "K9 C/A",
+        "price": 50,
+        "sku": "K9-WF-IN-ST-LS-BK",
+        "skus": [
+            "K9-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M14",
+        "price": 42,
+        "sku": "M14-NF-IN-ST-LS-BK",
+        "skus": [
+            "M14-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M14 C/A",
+        "price": 52,
+        "sku": "M14-WF-IN-ST-LS-BK",
+        "skus": [
+            "M14-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M15 C/A OLED",
+        "price": 185,
+        "sku": "M15-WF-OL-ST-LS-BK",
+        "skus": [
+            "M15-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M20",
+        "price": 45,
+        "sku": "M20-NF-IN-ST-LS-BK",
+        "skus": [
+            "M20-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M20 C/A",
+        "price": 45,
+        "sku": "M20-WF-IN-ST-LS-BK",
+        "skus": [
+            "M20-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M22 C/A",
+        "price": 53,
+        "sku": "M22-WF-IN-ST-LS-BK",
+        "skus": [
+            "M22-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M22 C/A OLED",
+        "price": 140,
+        "sku": "M22-WF-OL-ST-LS-BK",
+        "skus": [
+            "M22-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M22/A22 4G",
+        "price": 48,
+        "sku": "M22/A22-NF-IN-ST-LS-BK",
+        "skus": [
+            "M22-NF-IN-ST-LS-BK",
+            "A22-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M30/M31",
+        "price": 43,
+        "sku": "M30/M31-NF-IN-ST-LS-BK",
+        "skus": [
+            "M30-NF-IN-ST-LS-BK",
+            "M31-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M30/M31 C/A",
+        "price": 57,
+        "sku": "M30/M31-WF-IN-ST-LS-BK",
+        "skus": [
+            "M30-WF-IN-ST-LS-BK",
+            "M31-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M30/M31 C/A OLED",
+        "price": 135,
+        "sku": "M30/M31-WF-OL-ST-LS-BK",
+        "skus": [
+            "M30-WF-OL-ST-LS-BK",
+            "M31-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M30/M31 OLED",
+        "price": 115,
+        "sku": "M30/M31-NF-OL-ST-LS-BK",
+        "skus": [
+            "M30-NF-OL-ST-LS-BK",
+            "M31-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M32",
+        "price": 48,
+        "sku": "M32-NF-IN-ST-LS-BK",
+        "skus": [
+            "M32-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M32 C/A",
+        "price": 60,
+        "sku": "M32-WF-IN-ST-LS-BK",
+        "skus": [
+            "M32-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M32 C/A OLED",
+        "price": 145,
+        "sku": "M32-WF-OL-ST-LS-BK",
+        "skus": [
+            "M32-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M34 C/A",
+        "price": 75,
+        "sku": "M34-WF-IN-ST-LS-BK",
+        "skus": [
+            "M34-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M34 C/A OLED",
+        "price": 165,
+        "sku": "M34-WF-OL-ST-LS-BK",
+        "skus": [
+            "M34-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M35 C/A",
+        "price": 80,
+        "sku": "M35-WF-IN-ST-LS-BK",
+        "skus": [
+            "M35-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M51",
+        "price": 48,
+        "sku": "M51-NF-IN-ST-LS-BK",
+        "skus": [
+            "M51-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M51 C/A",
+        "price": 60,
+        "sku": "M51-WF-IN-ST-LS-BK",
+        "skus": [
+            "M51-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M51 C/A OLED",
+        "price": 175,
+        "sku": "M51-WF-OL-ST-LS-BK",
+        "skus": [
+            "M51-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M52",
+        "price": 52,
+        "sku": "M52-NF-IN-ST-LS-BK",
+        "skus": [
+            "M52-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M52 C/A",
+        "price": 63,
+        "sku": "M52-WF-IN-ST-LS-BK",
+        "skus": [
+            "M52-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M52 C/A OLED VIVID 大屏",
+        "price": 175,
+        "sku": "M52-WF-OL-VD-LS-BK",
+        "skus": [
+            "M52-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "M53",
+        "price": 52,
+        "sku": "M53-NF-IN-ST-LS-BK",
+        "skus": [
+            "M53-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M53 C/A",
+        "price": 63,
+        "sku": "M53-WF-IN-ST-LS-BK",
+        "skus": [
+            "M53-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M53 C/A OLED VIVID 大屏",
+        "price": 175,
+        "sku": "M53-WF-OL-VD-LS-BK",
+        "skus": [
+            "M53-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "M54",
+        "price": 52,
+        "sku": "M54-NF-IN-ST-LS-BK",
+        "skus": [
+            "M54-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M54 C/A",
+        "price": 75,
+        "sku": "M54-WF-IN-ST-LS-BK",
+        "skus": [
+            "M54-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M54 C/A OLED VIVID 大屏",
+        "price": 175,
+        "sku": "M54-WF-OL-VD-LS-BK",
+        "skus": [
+            "M54-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "M55 C/A OLED VIVID 大屏",
+        "price": 185,
+        "sku": "M55-WF-OL-VD-LS-BK",
+        "skus": [
+            "M55-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "M62 C/A",
+        "price": 63,
+        "sku": "M62-WF-IN-ST-LS-BK",
+        "skus": [
+            "M62-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "M62 C/A OLED",
+        "price": 185,
+        "sku": "M62-WF-OL-ST-LS-BK",
+        "skus": [
+            "M62-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI10LITE",
+        "price": 62,
+        "sku": "MI10LITE-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI10LITE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI10T",
+        "price": 65,
+        "sku": "MI10T-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI10T-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI11LITE",
+        "price": 62,
+        "sku": "MI11LITE-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI11LITE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI11LITE OLED",
+        "price": 260,
+        "sku": "MI11LITE-NF-OL-ST-LS-BK",
+        "skus": [
+            "MI11LITE-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI11T/MI11TPRO",
+        "price": 70,
+        "sku": "MI11T/MI11TPRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI11T-NF-IN-ST-LS-BK",
+            "MI11TPRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI11T/MI11TPRO OLED",
+        "price": 235,
+        "sku": "MI11T/MI11TPRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "MI11T-NF-OL-ST-LS-BK",
+            "MI11TPRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI12LITE",
+        "price": 55,
+        "sku": "MI12LITE-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI12LITE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI12LITE OLED",
+        "price": 132,
+        "sku": "MI12LITE-NF-OL-ST-LS-BK",
+        "skus": [
+            "MI12LITE-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI13LITE OLED",
+        "price": 190,
+        "sku": "MI13LITE-NF-OL-ST-LS-BK",
+        "skus": [
+            "MI13LITE-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI8LITE",
+        "price": 40,
+        "sku": "MI8LITE-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI8LITE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI8LITE C/A",
+        "price": 65,
+        "sku": "MI8LITE-WF-IN-ST-LS-BK",
+        "skus": [
+            "MI8LITE-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI9",
+        "price": 62,
+        "sku": "MI9-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI9-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI9LITE",
+        "price": 68,
+        "sku": "MI9LITE-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI9LITE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI9SE",
+        "price": 65,
+        "sku": "MI9SE-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI9SE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI9T OLED",
+        "price": 165,
+        "sku": "MI9T-NF-OL-ST-LS-BK",
+        "skus": [
+            "MI9T-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MI9T/MI9TPRO",
+        "price": 55,
+        "sku": "MI9T/MI9TPRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "MI9T-NF-IN-ST-LS-BK",
+            "MI9TPRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MIA2",
+        "price": 55,
+        "sku": "MIA2-NF-IN-ST-LS-BK",
+        "skus": [
+            "MIA2-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MIA2LITE/REDMI6PRO",
+        "price": 46,
+        "sku": "MIA2LITE/REDMI6PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "MIA2LITE-NF-IN-ST-LS-BK",
+            "REDMI6PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MIA3",
+        "price": 47,
+        "sku": "MIA3-NF-IN-ST-LS-BK",
+        "skus": [
+            "MIA3-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "MIA3 OLED",
+        "price": 150,
+        "sku": "MIA3-NF-OL-ST-LS-BK",
+        "skus": [
+            "MIA3-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA 2.4",
+        "price": 43,
+        "sku": "NOKIA2.4-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIA2.4-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA 5.3",
+        "price": 48,
+        "sku": "NOKIA5.3-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIA5.3-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA 5.4",
+        "price": 47,
+        "sku": "NOKIA5.4-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIA5.4-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA C01PLUS",
+        "price": 52,
+        "sku": "NOKIAC01PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAC01PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA C02PLUS",
+        "price": 52,
+        "sku": "NOKIAC02PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAC02PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA C10",
+        "price": 48,
+        "sku": "NOKIAC10-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAC10-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA C12",
+        "price": 47,
+        "sku": "NOKIAC12-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAC12-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA C2",
+        "price": 48,
+        "sku": "NOKIAC2-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAC2-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA C20",
+        "price": 55,
+        "sku": "NOKIAC20-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAC20-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA C3",
+        "price": 46,
+        "sku": "NOKIAC3-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAC3-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA C30",
+        "price": 46,
+        "sku": "NOKIAC30-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAC30-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA G10",
+        "price": 50,
+        "sku": "NOKIAG10-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAG10-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA G11PLUS",
+        "price": 50,
+        "sku": "NOKIAG11PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAG11PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOKIA G21/NOKIA G11",
+        "price": 50,
+        "sku": "NOKIAG21/NOKIAG11-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOKIAG21-NF-IN-ST-LS-BK",
+            "NOKIAG11-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 4G/NOTE10S C/A",
+        "price": 52,
+        "sku": "NOTE10/NOTE10S-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE10-WF-IN-ST-LS-BK",
+            "NOTE10S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 4G/NOTE10S C/A OLED",
+        "price": 128,
+        "sku": "NOTE10/NOTE10S-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE10-WF-OL-ST-LS-BK",
+            "NOTE10S-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 4G/NOTE10S C/A OLED VIVID",
+        "price": 0,
+        "sku": "NOTE10/NOTE10S-WF-OL-VD-LS-BK",
+        "skus": [
+            "NOTE10-WF-OL-VD-LS-BK",
+            "NOTE10S-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 4G/NOTE10S C/A VIVID",
+        "price": 52,
+        "sku": "NOTE10/NOTE10S-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE10-WF-IN-VD-LS-BK",
+            "NOTE10S-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 4G/NOTE10S OLED",
+        "price": 120,
+        "sku": "NOTE10/NOTE10S-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE10-NF-OL-ST-LS-BK",
+            "NOTE10S-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 4G/NOTE10S/POCO M5S",
+        "price": 47,
+        "sku": "NOTE10/NOTE10S/M5S-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE10-NF-IN-ST-LS-BK",
+            "NOTE10S-NF-IN-ST-LS-BK",
+            "M5S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 5G C/A",
+        "price": 62,
+        "sku": "NOTE105G-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE105G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 5G C/A VIVID",
+        "price": 65,
+        "sku": "NOTE105G-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE105G-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10 5G/POCO M3PRO",
+        "price": 52,
+        "sku": "NOTE105G/M3PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE105G-NF-IN-ST-LS-BK",
+            "M3PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10PLUS C/A OLED",
+        "price": 380,
+        "sku": "NOTE10PLUS-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE10PLUS-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10PRO 5G OLED",
+        "price": 195,
+        "sku": "NOTE10PRO5G-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE10PRO5G-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10PRO C/A",
+        "price": 60,
+        "sku": "NOTE10PRO-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE10PRO-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10PRO C/A OLED",
+        "price": 190,
+        "sku": "NOTE10PRO-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE10PRO-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10PRO C/A OLED VIVID",
+        "price": 0,
+        "sku": "NOTE10PRO-WF-OL-VD-LS-BK",
+        "skus": [
+            "NOTE10PRO-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10PRO/NOTE11PRO OLED",
+        "price": 0,
+        "sku": "NOTE10PRO/NOTE11PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE10PRO-NF-OL-ST-LS-BK",
+            "NOTE11PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE10PRO/NOTE11PRO/POCO X4PRO",
+        "price": 52,
+        "sku": "NOTE10PRO/NOTE11PRO/X4PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE10PRO-NF-IN-ST-LS-BK",
+            "NOTE11PRO-NF-IN-ST-LS-BK",
+            "X4PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11 4G/NOTE11S C/A",
+        "price": 65,
+        "sku": "NOTE11/NOTE11S-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE11-WF-IN-ST-LS-BK",
+            "NOTE11S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11 4G/NOTE11S C/A OLED",
+        "price": 155,
+        "sku": "NOTE11/NOTE11S-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE11-WF-OL-ST-LS-BK",
+            "NOTE11S-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11 4G/NOTE11S C/A OLED VIVID",
+        "price": 0,
+        "sku": "NOTE11/NOTE11S-WF-OL-VD-LS-BK",
+        "skus": [
+            "NOTE11-WF-OL-VD-LS-BK",
+            "NOTE11S-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11 4G/NOTE11S C/A VIVID",
+        "price": 65,
+        "sku": "NOTE11/NOTE11S-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE11-WF-IN-VD-LS-BK",
+            "NOTE11S-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11 4G/NOTE11S OLED",
+        "price": 138,
+        "sku": "NOTE11/NOTE11S-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE11-NF-OL-ST-LS-BK",
+            "NOTE11S-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11 4G/NOTE11S/POCO M4PRO 4G",
+        "price": 48,
+        "sku": "NOTE11/NOTE11S/M4PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE11-NF-IN-ST-LS-BK",
+            "NOTE11S-NF-IN-ST-LS-BK",
+            "M4PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11 5G C/A",
+        "price": 75,
+        "sku": "NOTE115G-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE115G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11 5G/NOTE11S 5G/POCO M4PRO 5G",
+        "price": 55,
+        "sku": "NOTE115G/NOTE11S5G/M4PRO5G-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE115G-NF-IN-ST-LS-BK",
+            "NOTE11S5G-NF-IN-ST-LS-BK",
+            "M4PRO5G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE11PRO C/A VIVID",
+        "price": 78,
+        "sku": "NOTE11PRO-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE11PRO-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12 4G C/A OLED",
+        "price": 165,
+        "sku": "NOTE12-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE12-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12 4G C/A OLED VIVID",
+        "price": 0,
+        "sku": "NOTE12-WF-OL-VD-LS-BK",
+        "skus": [
+            "NOTE12-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12 4G C/A VIVID",
+        "price": 72,
+        "sku": "NOTE12-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE12-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12 4G OLED",
+        "price": 145,
+        "sku": "NOTE12-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE12-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12 4G/POCO X5 C/A",
+        "price": 60,
+        "sku": "NOTE12/X5-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE12-WF-IN-ST-LS-BK",
+            "X5-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12 5G C/A",
+        "price": 80,
+        "sku": "NOTE125G-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE125G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12 5G C/A OLED",
+        "price": 165,
+        "sku": "NOTE125G-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE125G-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12 5G C/A OLED VIVID",
+        "price": 0,
+        "sku": "NOTE125G-WF-OL-VD-LS-BK",
+        "skus": [
+            "NOTE125G-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12/POCO X5",
+        "price": 52,
+        "sku": "NOTE12/X5-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE12-NF-IN-ST-LS-BK",
+            "X5-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12PRO 4G C/A",
+        "price": 0,
+        "sku": "NOTE12PRO-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE12PRO-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12PRO 4G C/A OLED",
+        "price": 190,
+        "sku": "NOTE12PRO-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE12PRO-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12PRO 4G C/A VIVID",
+        "price": 82,
+        "sku": "NOTE12PRO-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE12PRO-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12PRO 5G C/A",
+        "price": 65,
+        "sku": "NOTE12PRO5G-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE12PRO5G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12PRO 5G/POCO X5PRO",
+        "price": 56,
+        "sku": "NOTE12PRO5G/X5PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE12PRO5G-NF-IN-ST-LS-BK",
+            "X5PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12PRO 5G/POCO X5PRO C/A OLED",
+        "price": 195,
+        "sku": "NOTE12PRO5G/X5PRO-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE12PRO5G-WF-OL-ST-LS-BK",
+            "X5PRO-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE12PRO 5G/POCO X5PRO OLED",
+        "price": 175,
+        "sku": "NOTE12PRO5G/X5PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE12PRO5G-NF-OL-ST-LS-BK",
+            "X5PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13 4G C/A",
+        "price": 85,
+        "sku": "NOTE13-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE13-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13 4G C/A OLED VIVID",
+        "price": 195,
+        "sku": "NOTE13-WF-OL-VD-LS-BK",
+        "skus": [
+            "NOTE13-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13 4G C/A VIVID",
+        "price": 90,
+        "sku": "NOTE13-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE13-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13 4G OLED",
+        "price": 155,
+        "sku": "NOTE13-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE13-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13 4G/NOTE14 5G/POCO M7PRO",
+        "price": 62,
+        "sku": "NOTE13/NOTE145G/M7PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE13-NF-IN-ST-LS-BK",
+            "NOTE145G-NF-IN-ST-LS-BK",
+            "M7PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13 5G OLED",
+        "price": 170,
+        "sku": "NOTE135G-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE135G-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13 5G/NOTE12TURBO/POCO F5",
+        "price": 46,
+        "sku": "NOTE135G/NOTE12TURBO/F5-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE135G-NF-IN-ST-LS-BK",
+            "NOTE12TURBO-NF-IN-ST-LS-BK",
+            "F5-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13PRO 4G C/A OLED",
+        "price": 200,
+        "sku": "NOTE13PRO-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE13PRO-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13PRO 4G/POCO M6PRO 4G",
+        "price": 75,
+        "sku": "NOTE13PRO/M6PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE13PRO-NF-IN-ST-LS-BK",
+            "M6PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13PRO 4G/POCO M6PRO 4G OLED",
+        "price": 165,
+        "sku": "NOTE13PRO/M6PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE13PRO-NF-OL-ST-LS-BK",
+            "M6PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13PRO 5G/POCO X6",
+        "price": 63,
+        "sku": "NOTE13PRO5G/X6-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE13PRO5G-NF-IN-ST-LS-BK",
+            "X6-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13PRO 5G/POCO X6 C/A OLED",
+        "price": 225,
+        "sku": "NOTE13PRO5G/X6-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE13PRO5G-WF-OL-ST-LS-BK",
+            "X6-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13PRO 5G/POCO X6 OLED",
+        "price": 185,
+        "sku": "NOTE13PRO5G/X6-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE13PRO5G-NF-OL-ST-LS-BK",
+            "X6-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13PROPLUS C/A VIVID",
+        "price": 90,
+        "sku": "NOTE13PROPLUS-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE13PROPLUS-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE13PROPLUS OLED",
+        "price": 190,
+        "sku": "NOTE13PROPLUS-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE13PROPLUS-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE14 4G C/A OLED",
+        "price": 190,
+        "sku": "NOTE14-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE14-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE14PRO 5G/POCO X7 OLED",
+        "price": 195,
+        "sku": "NOTE14PRO5G/X7-NF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE14PRO5G-NF-OL-ST-LS-BK",
+            "X7-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE20 C/A OLED",
+        "price": 370,
+        "sku": "NOTE20-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE20-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE20ULTRA C/A OLED",
+        "price": 460,
+        "sku": "NOTE20ULTRA-WF-OL-ST-LS-BK",
+        "skus": [
+            "NOTE20ULTRA-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE6PRO",
+        "price": 38,
+        "sku": "NOTE6PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE6PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE7 C/A",
+        "price": 53,
+        "sku": "NOTE7-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE7-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE7 C/A AZUL",
+        "price": 53,
+        "sku": "NOTE7-WF-IN-ST-LS-BL",
+        "skus": [
+            "NOTE7-WF-IN-ST-LS-BL"
+        ]
+    },
+    {
+        "name": "NOTE7/NOTE7PRO",
+        "price": 38,
+        "sku": "NOTE7/NOTE7PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE7-NF-IN-ST-LS-BK",
+            "NOTE7PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE8",
+        "price": 38,
+        "sku": "NOTE8-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE8-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE8 C/A",
+        "price": 55,
+        "sku": "NOTE8-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE8-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE8 C/A AZUL",
+        "price": 55,
+        "sku": "NOTE8-WF-IN-ST-LS-BL",
+        "skus": [
+            "NOTE8-WF-IN-ST-LS-BL"
+        ]
+    },
+    {
+        "name": "NOTE8PRO",
+        "price": 43,
+        "sku": "NOTE8PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE8PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE8T",
+        "price": 40,
+        "sku": "NOTE8T-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE8T-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE9 C/A",
+        "price": 52,
+        "sku": "NOTE9-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE9-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE9 C/A VIVID",
+        "price": 57,
+        "sku": "NOTE9-WF-IN-VD-LS-BK",
+        "skus": [
+            "NOTE9-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE9/REDMI10X",
+        "price": 43,
+        "sku": "NOTE9/REDMI10X-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE9-NF-IN-ST-LS-BK",
+            "REDMI10X-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE9S C/A",
+        "price": 55,
+        "sku": "NOTE9S-WF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE9S-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE9S/NOTE9PRO 4G",
+        "price": 40,
+        "sku": "NOTE9S/NOTE9PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE9S-NF-IN-ST-LS-BK",
+            "NOTE9PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "NOTE9T/NOTE9 5G",
+        "price": 40,
+        "sku": "NOTE9T/NOTE95G-NF-IN-ST-LS-BK",
+        "skus": [
+            "NOTE9T-NF-IN-ST-LS-BK",
+            "NOTE95G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE",
+        "price": 40,
+        "sku": "ONE-NF-IN-ST-LS-BK",
+        "skus": [
+            "ONE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE C/A",
+        "price": 53,
+        "sku": "ONE-WF-IN-ST-LS-BK",
+        "skus": [
+            "ONE-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE C/A VIVID",
+        "price": 0,
+        "sku": "ONE-WF-IN-VD-LS-BK",
+        "skus": [
+            "ONE-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE FUSION",
+        "price": 40,
+        "sku": "FUSION-NF-IN-ST-LS-BK",
+        "skus": [
+            "FUSION-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE FUSION C/A",
+        "price": 47,
+        "sku": "FUSION-WF-IN-ST-LS-BK",
+        "skus": [
+            "FUSION-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE FUSIONPLUS",
+        "price": 48,
+        "sku": "FUSIONPLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "FUSIONPLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE FUSIONPLUS C/A",
+        "price": 0,
+        "sku": "FUSIONPLUS-WF-IN-ST-LS-BK",
+        "skus": [
+            "FUSIONPLUS-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE HYPER",
+        "price": 43,
+        "sku": "HYPER-NF-IN-ST-LS-BK",
+        "skus": [
+            "HYPER-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE VISION/ONE ACTION",
+        "price": 135,
+        "sku": "VISION/ACTION-NF-IN-ST-LS-BK",
+        "skus": [
+            "VISION-NF-IN-ST-LS-BK",
+            "ACTION-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ONE ZOOM",
+        "price": 130,
+        "sku": "ZOOM-NF-IN-ST-LS-BK",
+        "skus": [
+            "ZOOM-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "P580",
+        "price": 280,
+        "sku": "P580-NF-IN-ST-LS-BK",
+        "skus": [
+            "P580-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "P610",
+        "price": 240,
+        "sku": "P610-NF-IN-ST-LS-BK",
+        "skus": [
+            "P610-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO F1",
+        "price": 55,
+        "sku": "F1-NF-IN-ST-LS-BK",
+        "skus": [
+            "F1-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO F3 C/A",
+        "price": 75,
+        "sku": "F3-WF-IN-ST-LS-BK",
+        "skus": [
+            "F3-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO F3 C/A OLED",
+        "price": 185,
+        "sku": "F3-WF-OL-ST-LS-BK",
+        "skus": [
+            "F3-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO F3/POCO F4",
+        "price": 53,
+        "sku": "F3/F4-NF-IN-ST-LS-BK",
+        "skus": [
+            "F3-NF-IN-ST-LS-BK",
+            "F4-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO F3/POCO F4 OLED",
+        "price": 150,
+        "sku": "F3/F4-NF-OL-ST-LS-BK",
+        "skus": [
+            "F3-NF-OL-ST-LS-BK",
+            "F4-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO M3/REDMI9T",
+        "price": 45,
+        "sku": "M3/9T-NF-IN-ST-LS-BK",
+        "skus": [
+            "M3-NF-IN-ST-LS-BK",
+            "9T-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO M3/REDMI9T C/A",
+        "price": 60,
+        "sku": "M3/9T-WF-IN-ST-LS-BK",
+        "skus": [
+            "M3-WF-IN-ST-LS-BK",
+            "9T-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X3/POCO X3PRO/NOTE9PRO 5G",
+        "price": 47,
+        "sku": "X3/X3PRO/NOTE9PRO5G-NF-IN-ST-LS-BK",
+        "skus": [
+            "X3-NF-IN-ST-LS-BK",
+            "X3PRO-NF-IN-ST-LS-BK",
+            "NOTE9PRO5G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X3GT/NOTE10PRO 5G",
+        "price": 52,
+        "sku": "X3GT/NOTE10PRO5G-NF-IN-ST-LS-BK",
+        "skus": [
+            "X3GT-NF-IN-ST-LS-BK",
+            "NOTE10PRO5G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X3GT/NOTE10PRO 5G C/A",
+        "price": 68,
+        "sku": "X3GT/NOTE10PRO5G-WF-IN-ST-LS-BK",
+        "skus": [
+            "X3GT-WF-IN-ST-LS-BK",
+            "NOTE10PRO5G-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X4GT",
+        "price": 75,
+        "sku": "X4GT-NF-IN-ST-LS-BK",
+        "skus": [
+            "X4GT-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X6PRO",
+        "price": 58,
+        "sku": "X6PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "X6PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X6PRO C/A OLED",
+        "price": 225,
+        "sku": "X6PRO-WF-OL-ST-LS-BK",
+        "skus": [
+            "X6PRO-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X6PRO C/A OLED VIVID",
+        "price": 235,
+        "sku": "X6PRO-WF-OL-VD-LS-BK",
+        "skus": [
+            "X6PRO-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X6PRO OLED",
+        "price": 185,
+        "sku": "X6PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "X6PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "POCO X7PRO OLED",
+        "price": 310,
+        "sku": "X7PRO-NF-OL-ST-LS-BK",
+        "skus": [
+            "X7PRO-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C15/C11 2020",
+        "price": 40,
+        "sku": "C15/C112020-NF-IN-ST-LS-BK",
+        "skus": [
+            "C15-NF-IN-ST-LS-BK",
+            "C112020-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C20/C11 2021",
+        "price": 40,
+        "sku": "C20/C112021-NF-IN-ST-LS-BK",
+        "skus": [
+            "C20-NF-IN-ST-LS-BK",
+            "C112021-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C21Y",
+        "price": 43,
+        "sku": "C21Y-NF-IN-ST-LS-BK",
+        "skus": [
+            "C21Y-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C25/REALME A16",
+        "price": 38,
+        "sku": "C25/REALMEA16-NF-IN-ST-LS-BK",
+        "skus": [
+            "C25-NF-IN-ST-LS-BK",
+            "REALMEA16-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C3/REALME A11X",
+        "price": 47,
+        "sku": "C3/REALMEA11X-NF-IN-ST-LS-BK",
+        "skus": [
+            "C3-NF-IN-ST-LS-BK",
+            "REALMEA11X-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C30/C33",
+        "price": 42,
+        "sku": "C30/C33-NF-IN-ST-LS-BK",
+        "skus": [
+            "C30-NF-IN-ST-LS-BK",
+            "C33-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C31/C33S",
+        "price": 42,
+        "sku": "C31/C33S-NF-IN-ST-LS-BK",
+        "skus": [
+            "C31-NF-IN-ST-LS-BK",
+            "C33S-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C35",
+        "price": 42,
+        "sku": "C35-NF-IN-ST-LS-BK",
+        "skus": [
+            "C35-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C51/C53/NOTE50",
+        "price": 43,
+        "sku": "C51/C53/NOTE50-NF-IN-ST-LS-BK",
+        "skus": [
+            "C51-NF-IN-ST-LS-BK",
+            "C53-NF-IN-ST-LS-BK",
+            "NOTE50-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C51/NOTE50 C/A",
+        "price": 52,
+        "sku": "C51/NOTE50-WF-IN-ST-LS-BK",
+        "skus": [
+            "C51-WF-IN-ST-LS-BK",
+            "NOTE50-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C53 C/A",
+        "price": 52,
+        "sku": "C53-WF-IN-ST-LS-BK",
+        "skus": [
+            "C53-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C55/REALME11 5G",
+        "price": 50,
+        "sku": "C55/REALME115G-NF-IN-ST-LS-BK",
+        "skus": [
+            "C55-NF-IN-ST-LS-BK",
+            "REALME115G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C61 C/A",
+        "price": 53,
+        "sku": "C61-WF-IN-ST-LS-BK",
+        "skus": [
+            "C61-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C61/C63/NOTE60",
+        "price": 45,
+        "sku": "C61/C63/NOTE60-NF-IN-ST-LS-BK",
+        "skus": [
+            "C61-NF-IN-ST-LS-BK",
+            "C63-NF-IN-ST-LS-BK",
+            "NOTE60-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C63 C/A",
+        "price": 53,
+        "sku": "C63-WF-IN-ST-LS-BK",
+        "skus": [
+            "C63-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C65",
+        "price": 46,
+        "sku": "C65-NF-IN-ST-LS-BK",
+        "skus": [
+            "C65-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C67",
+        "price": 50,
+        "sku": "C67-NF-IN-ST-LS-BK",
+        "skus": [
+            "C67-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C67 C/A",
+        "price": 0,
+        "sku": "C67-WF-IN-ST-LS-BK",
+        "skus": [
+            "C67-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C75",
+        "price": 65,
+        "sku": "C75-NF-IN-ST-LS-BK",
+        "skus": [
+            "C75-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME C75 C/A",
+        "price": 75,
+        "sku": "C75-WF-IN-ST-LS-BK",
+        "skus": [
+            "C75-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME6/REALME7",
+        "price": 45,
+        "sku": "REALME6/REALME7-NF-IN-ST-LS-BK",
+        "skus": [
+            "REALME6-NF-IN-ST-LS-BK",
+            "REALME7-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME7I",
+        "price": 55,
+        "sku": "REALME7I-NF-IN-ST-LS-BK",
+        "skus": [
+            "REALME7I-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME7PRO/REALME8",
+        "price": 52,
+        "sku": "REALME7PRO/REALME8-NF-IN-ST-LS-BK",
+        "skus": [
+            "REALME7PRO-NF-IN-ST-LS-BK",
+            "REALME8-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME8I/REALME9I",
+        "price": 55,
+        "sku": "REALME8I/REALME9I-NF-IN-ST-LS-BK",
+        "skus": [
+            "REALME8I-NF-IN-ST-LS-BK",
+            "REALME9I-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REALME8PRO",
+        "price": 58,
+        "sku": "REALME8PRO-NF-IN-ST-LS-BK",
+        "skus": [
+            "REALME8PRO-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI10 4G",
+        "price": 45,
+        "sku": "REDMI10-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI10-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI10 5G/POCO M4/POCO M5",
+        "price": 55,
+        "sku": "REDMI105G/M4/M5-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI105G-NF-IN-ST-LS-BK",
+            "M4-NF-IN-ST-LS-BK",
+            "M5-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI10 5G/POCO M4/POCO M5 C/A",
+        "price": 65,
+        "sku": "REDMI105G/M4/M5-WF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI105G-WF-IN-ST-LS-BK",
+            "M4-WF-IN-ST-LS-BK",
+            "M5-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI10 C/A",
+        "price": 53,
+        "sku": "REDMI10-WF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI10-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI10C C/A",
+        "price": 48,
+        "sku": "10C-WF-IN-ST-LS-BK",
+        "skus": [
+            "10C-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI10C/POCO C40",
+        "price": 43,
+        "sku": "10C/POCOC40-NF-IN-ST-LS-BK",
+        "skus": [
+            "10C-NF-IN-ST-LS-BK",
+            "POCOC40-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI12 C/A",
+        "price": 63,
+        "sku": "REDMI12-WF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI12-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI12/REDMI13/POCO M6PRO 5G",
+        "price": 52,
+        "sku": "REDMI12/REDMI13/M6PRO5G-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI12-NF-IN-ST-LS-BK",
+            "REDMI13-NF-IN-ST-LS-BK",
+            "M6PRO5G-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI12C C/A",
+        "price": 48,
+        "sku": "12C-WF-IN-ST-LS-BK",
+        "skus": [
+            "12C-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI12C/POCO C55",
+        "price": 39,
+        "sku": "12C/POCOC55-NF-IN-ST-LS-BK",
+        "skus": [
+            "12C-NF-IN-ST-LS-BK",
+            "POCOC55-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI13 C/A",
+        "price": 65,
+        "sku": "REDMI13-WF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI13-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI13C C/A",
+        "price": 48,
+        "sku": "13C-WF-IN-ST-LS-BK",
+        "skus": [
+            "13C-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI13C C/A VIVID",
+        "price": 65,
+        "sku": "13C-WF-IN-VD-LS-BK",
+        "skus": [
+            "13C-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI13C/POCO C65",
+        "price": 39,
+        "sku": "13C/POCOC65-NF-IN-ST-LS-BK",
+        "skus": [
+            "13C-NF-IN-ST-LS-BK",
+            "POCOC65-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI14C C/A",
+        "price": 50,
+        "sku": "14C-WF-IN-ST-LS-BK",
+        "skus": [
+            "14C-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI14C C/A VIVID",
+        "price": 60,
+        "sku": "14C-WF-IN-VD-LS-BK",
+        "skus": [
+            "14C-WF-IN-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI14C/POCO C75/REDMIA4",
+        "price": 40,
+        "sku": "14C/POCOC75/REDMIA4-NF-IN-ST-LS-BK",
+        "skus": [
+            "14C-NF-IN-ST-LS-BK",
+            "POCOC75-NF-IN-ST-LS-BK",
+            "REDMIA4-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI7",
+        "price": 0,
+        "sku": "REDMI7-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI7-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI7A",
+        "price": 0,
+        "sku": "7A-NF-IN-ST-LS-BK",
+        "skus": [
+            "7A-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI8/8A",
+        "price": 0,
+        "sku": "REDMI8/8A-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI8-NF-IN-ST-LS-BK",
+            "8A-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI8A C/A",
+        "price": 68,
+        "sku": "8A-WF-IN-ST-LS-BK",
+        "skus": [
+            "8A-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI9",
+        "price": 38,
+        "sku": "REDMI9-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI9-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI9 C/A",
+        "price": 48,
+        "sku": "REDMI9-WF-IN-ST-LS-BK",
+        "skus": [
+            "REDMI9-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI9A C/A",
+        "price": 50,
+        "sku": "9A-WF-IN-ST-LS-BK",
+        "skus": [
+            "9A-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMI9A/9C/10A/POCO C3",
+        "price": 39,
+        "sku": "9A/9C/10A/POCOC3-NF-IN-ST-LS-BK",
+        "skus": [
+            "9A-NF-IN-ST-LS-BK",
+            "9C-NF-IN-ST-LS-BK",
+            "10A-NF-IN-ST-LS-BK",
+            "POCOC3-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMIA1/REDMIA2 C/A",
+        "price": 52,
+        "sku": "REDMIA1/REDMIA2-WF-IN-ST-LS-BK",
+        "skus": [
+            "REDMIA1-WF-IN-ST-LS-BK",
+            "REDMIA2-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMIA1/REDMIA2/REDMIA1PLUS",
+        "price": 40,
+        "sku": "REDMIA1/REDMIA2/REDMIA1PLUS-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMIA1-NF-IN-ST-LS-BK",
+            "REDMIA2-NF-IN-ST-LS-BK",
+            "REDMIA1PLUS-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMIA3",
+        "price": 41,
+        "sku": "REDMIA3-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMIA3-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "REDMIA5/POCO C71",
+        "price": 60,
+        "sku": "REDMIA5/POCOC71-NF-IN-ST-LS-BK",
+        "skus": [
+            "REDMIA5-NF-IN-ST-LS-BK",
+            "POCOC71-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S20FE",
+        "price": 100,
+        "sku": "S20FE-NF-IN-ST-LS-BK",
+        "skus": [
+            "S20FE-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S20FE C/A",
+        "price": 100,
+        "sku": "S20FE-WF-IN-ST-LS-BK",
+        "skus": [
+            "S20FE-WF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED BRANCO",
+        "price": 165,
+        "sku": "S20FE-WF-OL-ST-LS-WH",
+        "skus": [
+            "S20FE-WF-OL-ST-LS-WH"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED PRETO",
+        "price": 165,
+        "sku": "S20FE-WF-OL-ST-LS-BK",
+        "skus": [
+            "S20FE-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED ROSA",
+        "price": 165,
+        "sku": "S20FE-WF-OL-ST-LS-PK",
+        "skus": [
+            "S20FE-WF-OL-ST-LS-PK"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED VERDE",
+        "price": 165,
+        "sku": "S20FE-WF-OL-ST-LS-GR",
+        "skus": [
+            "S20FE-WF-OL-ST-LS-GR"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED VIVID PRATA",
+        "price": 0,
+        "sku": "S20FE-WF-OL-VD-LS-SV",
+        "skus": [
+            "S20FE-WF-OL-VD-LS-SV"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED VIVID PRETO",
+        "price": 170,
+        "sku": "S20FE-WF-OL-VD-LS-BK",
+        "skus": [
+            "S20FE-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED VIVID ROXO",
+        "price": 0,
+        "sku": "S20FE-WF-OL-VD-LS-PP",
+        "skus": [
+            "S20FE-WF-OL-VD-LS-PP"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED VIVID VERDE",
+        "price": 0,
+        "sku": "S20FE-WF-OL-VD-LS-GR",
+        "skus": [
+            "S20FE-WF-OL-VD-LS-GR"
+        ]
+    },
+    {
+        "name": "S20FE C/A OLED VIVID VERMELHO",
+        "price": 0,
+        "sku": "S20FE-WF-OL-VD-LS-RD",
+        "skus": [
+            "S20FE-WF-OL-VD-LS-RD"
+        ]
+    },
+    {
+        "name": "S20PLUS C/A OLED",
+        "price": 360,
+        "sku": "S20PLUS-WF-OL-ST-LS-BK",
+        "skus": [
+            "S20PLUS-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S20ULTRA C/A OLED",
+        "price": 530,
+        "sku": "S20ULTRA-WF-OL-ST-LS-BK",
+        "skus": [
+            "S20ULTRA-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S21 C/A OLED",
+        "price": 460,
+        "sku": "S21-WF-OL-ST-LS-BK",
+        "skus": [
+            "S21-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S21FE C/A OLED",
+        "price": 0,
+        "sku": "S21FE-WF-OL-ST-LS-BK",
+        "skus": [
+            "S21FE-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S21FE C/A OLED VIVID",
+        "price": 0,
+        "sku": "S21FE-WF-OL-VD-LS-BK",
+        "skus": [
+            "S21FE-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "S21PLUS C/A OLED",
+        "price": 380,
+        "sku": "S21PLUS-WF-OL-ST-LS-BK",
+        "skus": [
+            "S21PLUS-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S21ULTRA C/A OLED",
+        "price": 460,
+        "sku": "S21ULTRA-WF-OL-ST-LS-BK",
+        "skus": [
+            "S21ULTRA-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S22 OLED",
+        "price": 680,
+        "sku": "S22-NF-OL-ST-LS-BK",
+        "skus": [
+            "S22-NF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S22ULTRA C/A OLED",
+        "price": 480,
+        "sku": "S22ULTRA-WF-OL-ST-LS-BK",
+        "skus": [
+            "S22ULTRA-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S23FE C/A OLED VIVID",
+        "price": 220,
+        "sku": "S23FE-WF-OL-VD-LS-BK",
+        "skus": [
+            "S23FE-WF-OL-VD-LS-BK"
+        ]
+    },
+    {
+        "name": "S23PLUS C/A OLED",
+        "price": 430,
+        "sku": "S23PLUS-WF-OL-ST-LS-BK",
+        "skus": [
+            "S23PLUS-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S23ULTRA C/A OLED",
+        "price": 480,
+        "sku": "S23ULTRA-WF-OL-ST-LS-BK",
+        "skus": [
+            "S23ULTRA-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S24ULTRA C/A OLED",
+        "price": 650,
+        "sku": "S24ULTRA-WF-OL-ST-LS-BK",
+        "skus": [
+            "S24ULTRA-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S8PLUS C/A OLED",
+        "price": 470,
+        "sku": "S8PLUS-WF-OL-ST-LS-BK",
+        "skus": [
+            "S8PLUS-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "S9PLUS C/A OLED",
+        "price": 470,
+        "sku": "S9PLUS-WF-OL-ST-LS-BK",
+        "skus": [
+            "S9PLUS-WF-OL-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "T225",
+        "price": 115,
+        "sku": "T225-NF-IN-ST-LS-BK",
+        "skus": [
+            "T225-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "T285",
+        "price": 100,
+        "sku": "T285-NF-IN-ST-LS-BK",
+        "skus": [
+            "T285-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "T295",
+        "price": 100,
+        "sku": "T295-NF-IN-ST-LS-BK",
+        "skus": [
+            "T295-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "T385",
+        "price": 190,
+        "sku": "T385-NF-IN-ST-LS-BK",
+        "skus": [
+            "T385-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "T510",
+        "price": 190,
+        "sku": "T510-NF-IN-ST-LS-BK",
+        "skus": [
+            "T510-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "T580",
+        "price": 190,
+        "sku": "T580-NF-IN-ST-LS-BK",
+        "skus": [
+            "T580-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "T735",
+        "price": 220,
+        "sku": "T735-NF-IN-ST-LS-BK",
+        "skus": [
+            "T735-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "X115",
+        "price": 150,
+        "sku": "X115-NF-IN-ST-LS-BK",
+        "skus": [
+            "X115-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "X200",
+        "price": 170,
+        "sku": "X200-NF-IN-ST-LS-BK",
+        "skus": [
+            "X200-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "X210",
+        "price": 180,
+        "sku": "X210-NF-IN-ST-LS-BK",
+        "skus": [
+            "X210-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "Z2PLAY",
+        "price": 105,
+        "sku": "Z2PLAY-NF-IN-ST-LS-BK",
+        "skus": [
+            "Z2PLAY-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "Z3PLAY",
+        "price": 145,
+        "sku": "Z3PLAY-NF-IN-ST-LS-BK",
+        "skus": [
+            "Z3PLAY-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ZB520KL",
+        "price": 48,
+        "sku": "ZB520KL-NF-IN-ST-LS-BK",
+        "skus": [
+            "ZB520KL-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ZB551KL",
+        "price": 48,
+        "sku": "ZB551KL-NF-IN-ST-LS-BK",
+        "skus": [
+            "ZB551KL-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ZB634KL",
+        "price": 54,
+        "sku": "ZB634KL-NF-IN-ST-LS-BK",
+        "skus": [
+            "ZB634KL-NF-IN-ST-LS-BK"
+        ]
+    },
+    {
+        "name": "ZC520KL",
+        "price": 48,
+        "sku": "ZC520KL-NF-IN-ST-LS-BK",
+        "skus": [
+            "ZC520KL-NF-IN-ST-LS-BK"
+        ]
+    }
+]
