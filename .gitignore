@@ -1,0 +1,10 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Dependências (exemplo: venv)
+venv/
+.env/
+
+# Arquivos de log
+*.log
