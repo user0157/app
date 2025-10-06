@@ -4,6 +4,7 @@ from event_emitter import EventEmitter
 from widgets.tab_bar import TabBar
 from pages.login_page import LoginPage
 from pages.main_page import MainPage
+#from pages.home_page import MainPage
 from pages.about import AboutPage
 from config import APP_NAME, VERSION
 from app_decorators import after_decorator, show_loading_popup, close_loading_popup
@@ -70,16 +71,13 @@ class App(tk.Tk, EventEmitter):
 
     def create_new_page(self, page_id, page_type):
         if not self.logged_in and page_type != "login":
-            page = LoginPage(self.page_container, page_id)
-            page.on("page/login", self._emit_login)
+            page = self.create_login(page_id)
 
         elif page_type == "about":
-            page = AboutPage(self.page_container, page_id)
+            page = self.create_about(page_id)
 
         else:
-            page = MainPage(self.page_container, page_id)
-            page.on("page/process", lambda text, page_id: self.process_text(text, page_id))
-            page.on("page/create_cache", lambda page_id: self.create_cache(page_id))
+            page = self.create_main(page_id)
 
         self.pages[page_id] = page
         return page
@@ -105,6 +103,15 @@ class App(tk.Tk, EventEmitter):
         page.on("page/create_cache", lambda page_id: self.create_cache(page_id))
 
         return page
+    
+    def create_login(self, page_id):
+        page = LoginPage(self.page_container, page_id)
+        page.on("page/login", self._emit_login)
+        return page
+    
+    def create_about(self, page_id):
+        page = AboutPage(self.page_container, page_id)
+        return page
 
     def _update_tab_name(self, page_id, new_name):
         tab = self.tab_bar.get_tab_by_page_id(page_id)
@@ -124,13 +131,12 @@ class App(tk.Tk, EventEmitter):
         self.logged_in = True
 
         for pid in list(self.pages.keys()):
-            if isinstance(self.pages[pid], LoginPage):
-                self.pages[pid].destroy()
-                del self.pages[pid]
+            self.pages[pid].destroy()
+            del self.pages[pid]
 
-                main_page = self.create_main(pid)
-                self.pages[pid] = main_page
-                main_page.grid(row=0, column=0, sticky="nsew")
+            main_page = self.create_main(pid)
+            self.pages[pid] = main_page
+            main_page.grid(row=0, column=0, sticky="nsew")
 
         self.fetch_profile(result.get("page_id"))
 
@@ -149,14 +155,13 @@ class App(tk.Tk, EventEmitter):
         self.logged_in = False
 
         for pid in list(self.pages.keys()):
-            if isinstance(self.pages[pid], MainPage):
-                self.pages[pid].destroy()
-                del self.pages[pid]
+            self.pages[pid].destroy()  
+            del self.pages[pid]
 
-                login_page = LoginPage(self.page_container, pid)
-                login_page.on("page/login", self._emit_login)
-                self.pages[pid] = login_page
-                login_page.place(relx=0, rely=0, relwidth=1, relheight=1)
+            # Cria uma nova página de login
+            login_page = self.create_login(pid)
+            self.pages[pid] = login_page
+            login_page.place(relx=0, rely=0, relwidth=1, relheight=1)
 
         self.reset_footer()
 
