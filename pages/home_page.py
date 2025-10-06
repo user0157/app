@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 from pages.page import Page
 
-class MainPage(Page):
+class HomePage(Page):
     def __init__(self, master=None, page_id=None):
         super().__init__(master, page_id)
         self.grid(sticky="nsew")
@@ -12,25 +12,28 @@ class MainPage(Page):
         container = ttk.Frame(self)
         container.grid(row=0, column=0, sticky="nsew", padx=50, pady=50)
 
+        # Definindo o estilo comum para a label e o botão
         style = ttk.Style()
-        style.configure("TButton", font=("Arial", 12), padding=10)
-        style.configure("TLabel", font=("Arial", 16))
+        style.configure("Custom.TLabel", font=("Microsoft YaHei", 16, "bold"))
+        style.configure("Custom.TButton", font=("Microsoft YaHei", 12))
 
-        self.label = ttk.Label(container, text="Escolha a página:")
+        # Aplicando o estilo à label
+        self.label = ttk.Label(container, text="开始", style="Custom.TLabel")
         self.label.grid(row=0, column=0, pady=(0, 20))
 
         page_buttons = [
-            "Página 1",
-            "Página 2",
-            "Página 3",
+            ("打开匹配价格界面", "process"),
+            ("库存管理界面", "inventory"),
+            ("关于", "about")
         ]
 
-        for idx, page_name in enumerate(page_buttons):
-            button = ttk.Button(container, text=page_name, command=lambda pid=page_name: self.open_page(pid))
+        # Criando os botões e aplicando o estilo
+        for idx, (button_text, page_type) in enumerate(page_buttons):
+            button = ttk.Button(container, text=button_text, command=lambda type=page_type: self.open_page(type), style="Custom.TButton")
             button.grid(row=idx + 1, column=0, pady=10, sticky="ew")
 
         container.columnconfigure(0, weight=1)
         self.columnconfigure(0, weight=1)
 
-    def open_page(self, page_id):
-        messagebox.showinfo("Navegação", f"Navegando para {page_id}")
+    def open_page(self, type):
+        self.emit("open_page", type)
