@@ -1,10 +1,27 @@
-# Compiled Python files
-__pycache__/
-*.pyc
+# Ignorar arquivos de ambiente
+.env
 
-# Dependências (exemplo: venv)
-venv/
-.env/
+# Ignorar arquivos de sistema
+.DS_Store  # Para MacOS
+Thumbs.db  # Para Windows
 
-# Arquivos de log
+# Ignorar diretórios de dependências (dependendo do seu gerenciador de pacotes)
+node_modules/  # Para Node.js
+vendor/  # Para PHP
+
+# Ignorar arquivos de build
+dist/
+build/
+
+# Ignorar logs
 *.log
+
+# Ignorar arquivos temporários de IDEs e editores
+.vscode/
+.idea/
+*.swp  # Para editores Vim
+*.sublime-workspace  # Para Sublime Text
+*.sublime-project  # Para Sublime Text
+
+# Ignorar arquivos de configuração de sistemas de controle de versão
+*.lock  # Para dependências de Node.js, por exemplo
