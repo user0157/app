@@ -12,8 +12,6 @@ def make_request():
 # 启动
 # =========================
 if __name__ == "__main__":
-    requests.get("https://server2-zy7h.onrender.com/health")
-
     app = App()
     processor = TextProcessor()
     controller = TextController(processor)
