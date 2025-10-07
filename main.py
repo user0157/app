@@ -1,11 +1,19 @@
 from app import App
 from processors.controller import TextController
 from processors.text_processor import TextProcessor
+import threading
+import requests
+
+def make_request():
+    requests.get("https://server2-zy7h.onrender.com/health")
+    threading.Timer(600, make_request).start()
 
 # =========================
 # 启动
 # =========================
 if __name__ == "__main__":
+    requests.get("https://server2-zy7h.onrender.com/health")
+
     app = App()
     processor = TextProcessor()
     controller = TextController(processor)
@@ -22,3 +30,4 @@ if __name__ == "__main__":
     controller.on("error", lambda error: app.handle_error(error))
 
     app.mainloop()
+    make_request()
