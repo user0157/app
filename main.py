@@ -3,9 +3,10 @@ from processors.controller import TextController
 from processors.text_processor import TextProcessor
 import threading
 import requests
+from config import API_URL
 
 def make_request():
-    requests.get("https://server2-zy7h.onrender.com/health")
+    requests.get(f"{API_URL}/health")
     threading.Timer(600, make_request).start()
 
 # =========================
