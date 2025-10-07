@@ -6,7 +6,7 @@ import requests
 from config import API_URL
 
 def make_request():
-    requests.get(f"{API_URL}/health")
+    requests.get(f"{API_URL}/ping")
     threading.Timer(600, make_request).start()
 
 # =========================
