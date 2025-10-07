@@ -70,7 +70,7 @@ class TabBar(tk.Frame, EventEmitter):
         self.active_tab = None  # 当前激活的Tab
         self.page_count = 1  # 页面的计数器
 
-    def add_tab(self, page_type="default"):
+    def add_tab(self, page_type="home"):
         # 添加新Tab
         page_id = self.page_count
         self.page_count += 1
