@@ -29,17 +29,24 @@ class MainPage(Page):
             ("标记数量-后面", lambda: self.run_algorithm("quantity", "backward")),
             ("标记价格-前面", lambda: self.run_algorithm("price", "forward")),
             ("标记价格-后面", lambda: self.run_algorithm("price", "backward")),
+            ("", None),
             ("提取表格", self.process_text),
-            ("创建缓存", self.create_cache),
             ("匹配价格", self.get_price),
+            ("复制表格数据", self.copy_to_clipboard),
+            ("", None),
             ("导入Excel", self.upload_excel),
             ("导出Excel", self.export_excel),
-            ("复制表格数据", self.copy_to_clipboard),
+            ("创建缓存", self.create_cache),
         ]
         
         for i, (text, command) in enumerate(buttons):
-            btn = ttk.Button(self.sidebar, text=text, command=command)
-            btn.grid(row=i, column=0, sticky="ew", pady=2)
+            if text == "":
+                spacer = ttk.Frame(self.sidebar, height=30)
+                spacer.grid(row=i, column=0)
+            else:
+                btn = ttk.Button(self.sidebar, text=text, command=command)
+                btn.grid(row=i, column=0, sticky="ew", pady=2)
+
 
         self.sidebar.grid_rowconfigure(len(buttons), weight=1)
 
