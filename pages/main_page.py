@@ -59,13 +59,23 @@ class MainPage(Page):
         self.table.set_columns(["sku", "name", "quantity", "price"])
 
     def copy_to_clipboard(self):
-        data = self.table.get_data()
+        item_ids = self.table.tree.get_children()
+        col_names = self.table.columns
 
-        text = "\n".join(
-            f"{item['quantity']} {item['name']} {item['price']}".strip()
-            for item in data
-        )
+        lines = []
 
+        for item_id in item_ids:
+            values = self.table.tree.item(item_id)['values']
+            row_dict = dict(zip(col_names, values))
+
+            quantity = row_dict.get('quantity', '')
+            name = row_dict.get('name', '')
+            price = row_dict.get('price', '')
+
+            line = f"{quantity} {name} {price}".strip()
+            lines.append(line)
+
+        text = "\n".join(lines)
         pyperclip.copy(text)
         ToastMessage(self, "成功复制到粘贴面板")
 
@@ -126,10 +136,9 @@ class MainPage(Page):
                 if matched_product:
                     item["sku"] = matched_product.get("sku", "")
                 else:
-                    item["sku"] = ""  # <<< limpa o SKU se não houver match
+                    item["sku"] = ""
 
         return data
-
     
     def get_price(self):
         data = self.table.get_data()
