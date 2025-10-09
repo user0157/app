@@ -2154,9 +2154,9 @@
         "name": "FRETE -运费",
         "price": 0,
         "quantity": 0,
-        "sku": "FRETE运费-NF-IN-ST-LS-BK",
+        "sku": "FRETE-NF-IN-ST-LS-BK",
         "skus": [
-            "FRETE运费-NF-IN-ST-LS-BK"
+            "FRETE-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3327,9 +3327,9 @@
         "name": "INFINIX HOT10PLAY/HOT11PLAY",
         "price": 60,
         "quantity": 0,
-        "sku": "INFINIXHOT10PLAY/HOT11PLAY-NF-IN-ST-LS-BK",
+        "sku": "HOT10PLAY/HOT11PLAY-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT10PLAY-NF-IN-ST-LS-BK",
+            "HOT10PLAY-NF-IN-ST-LS-BK",
             "HOT11PLAY-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -3338,9 +3338,9 @@
         "name": "INFINIX HOT11/HOT10S/X689",
         "price": 50,
         "quantity": 0,
-        "sku": "INFINIXHOT11/HOT10S/X689-NF-IN-ST-LS-BK",
+        "sku": "HOT11/HOT10S/X689-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT11-NF-IN-ST-LS-BK",
+            "HOT11-NF-IN-ST-LS-BK",
             "HOT10S-NF-IN-ST-LS-BK",
             "X689-NF-IN-ST-LS-BK"
         ],
@@ -3350,9 +3350,9 @@
         "name": "INFINIX HOT11/X658/X659",
         "price": 50,
         "quantity": 0,
-        "sku": "INFINIXHOT11/X658/X659-NF-IN-ST-LS-BK",
+        "sku": "HOT11/X658/X659-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT11-NF-IN-ST-LS-BK",
+            "HOT11-NF-IN-ST-LS-BK",
             "X658-NF-IN-ST-LS-BK",
             "X659-NF-IN-ST-LS-BK"
         ],
@@ -3362,9 +3362,9 @@
         "name": "INFINIX HOT11S",
         "price": 53,
         "quantity": 0,
-        "sku": "INFINIXHOT11S-NF-IN-ST-LS-BK",
+        "sku": "HOT11S-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT11S-NF-IN-ST-LS-BK"
+            "HOT11S-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3372,9 +3372,9 @@
         "name": "INFINIX HOT20 5G",
         "price": 53,
         "quantity": 0,
-        "sku": "INFINIXHOT205G-NF-IN-ST-LS-BK",
+        "sku": "HOT205G-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT205G-NF-IN-ST-LS-BK"
+            "HOT205G-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3382,9 +3382,9 @@
         "name": "INFINIX HOT20I",
         "price": 42,
         "quantity": 0,
-        "sku": "INFINIXHOT20I-NF-IN-ST-LS-BK",
+        "sku": "HOT20I-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT20I-NF-IN-ST-LS-BK"
+            "HOT20I-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3392,9 +3392,9 @@
         "name": "INFINIX HOT30I",
         "price": 43,
         "quantity": 0,
-        "sku": "INFINIXHOT30I-NF-IN-ST-LS-BK",
+        "sku": "HOT30I-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT30I-NF-IN-ST-LS-BK"
+            "HOT30I-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3402,9 +3402,9 @@
         "name": "INFINIX HOT30PLAY",
         "price": 53,
         "quantity": 0,
-        "sku": "INFINIXHOT30PLAY-NF-IN-ST-LS-BK",
+        "sku": "HOT30PLAY-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT30PLAY-NF-IN-ST-LS-BK"
+            "HOT30PLAY-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3412,9 +3412,9 @@
         "name": "INFINIX HOT40PRO/HOT30/NOTE30 5G",
         "price": 58,
         "quantity": 0,
-        "sku": "INFINIXHOT40PRO/HOT30/NOTE305G-NF-IN-ST-LS-BK",
+        "sku": "HOT40PRO/HOT30/NOTE305G-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT40PRO-NF-IN-ST-LS-BK",
+            "HOT40PRO-NF-IN-ST-LS-BK",
             "HOT30-NF-IN-ST-LS-BK",
             "NOTE305G-NF-IN-ST-LS-BK"
         ],
@@ -3424,9 +3424,9 @@
         "name": "INFINIX HOT50",
         "price": 62,
         "quantity": 0,
-        "sku": "INFINIXHOT50-NF-IN-ST-LS-BK",
+        "sku": "HOT50-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT50-NF-IN-ST-LS-BK"
+            "HOT50-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3434,9 +3434,9 @@
         "name": "INFINIX HOT50I",
         "price": 55,
         "quantity": 0,
-        "sku": "INFINIXHOT50I-NF-IN-ST-LS-BK",
+        "sku": "HOT50I-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXHOT50I-NF-IN-ST-LS-BK"
+            "HOT50I-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3454,9 +3454,9 @@
         "name": "INFINIX SMART6",
         "price": 40,
         "quantity": 0,
-        "sku": "INFINIXSMART6-NF-IN-ST-LS-BK",
+        "sku": "SMART6-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXSMART6-NF-IN-ST-LS-BK"
+            "SMART6-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3464,9 +3464,9 @@
         "name": "INFINIX SMART7",
         "price": 42,
         "quantity": 0,
-        "sku": "INFINIXSMART7-NF-IN-ST-LS-BK",
+        "sku": "SMART7-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXSMART7-NF-IN-ST-LS-BK"
+            "SMART7-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3474,9 +3474,9 @@
         "name": "INFINIX SMART8/SMART8PRO",
         "price": 48,
         "quantity": 0,
-        "sku": "INFINIXSMART8/SMART8PRO-NF-IN-ST-LS-BK",
+        "sku": "SMART8/SMART8PRO-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXSMART8-NF-IN-ST-LS-BK",
+            "SMART8-NF-IN-ST-LS-BK",
             "SMART8PRO-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -3485,9 +3485,9 @@
         "name": "INFINIX SMART9",
         "price": 55,
         "quantity": 0,
-        "sku": "INFINIXSMART9-NF-IN-ST-LS-BK",
+        "sku": "SMART9-NF-IN-ST-LS-BK",
         "skus": [
-            "INFINIXSMART9-NF-IN-ST-LS-BK"
+            "SMART9-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
