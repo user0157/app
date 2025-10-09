@@ -91,9 +91,12 @@ class App(tk.Tk, EventEmitter):
 
     def show_page(self, page_id):
         if page_id not in self.pages:
-            raise ValueError(f"页面 ID '{page_id}' 未找到!")
+            for pid in list(self.pages.keys()):
+                self.pages[pid].destroy()
+                del self.pages[pid]
+            return
+        
         page = self.pages[page_id]
-
         for widget in self.page_container.winfo_children():
             widget.grid_forget()
 
