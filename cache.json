@@ -3143,10 +3143,10 @@
         "name": "G8PLAY/ONE MACRO",
         "price": 38,
         "quantity": 0,
-        "sku": "G8PLAY/MACRO-NF-IN-ST-LS-BK",
+        "sku": "G8PLAY/ONEMACRO-NF-IN-ST-LS-BK",
         "skus": [
             "G8PLAY-NF-IN-ST-LS-BK",
-            "MACRO-NF-IN-ST-LS-BK"
+            "ONEMACRO-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3154,10 +3154,10 @@
         "name": "G8PLAY/ONE MACRO C/A",
         "price": 70,
         "quantity": 0,
-        "sku": "G8PLAY/MACRO-WF-IN-ST-LS-BK",
+        "sku": "G8PLAY/ONEMACRO-WF-IN-ST-LS-BK",
         "skus": [
             "G8PLAY-WF-IN-ST-LS-BK",
-            "MACRO-WF-IN-ST-LS-BK"
+            "ONEMACRO-WF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3327,9 +3327,9 @@
         "name": "INFINIX HOT10PLAY/HOT11PLAY",
         "price": 60,
         "quantity": 0,
-        "sku": "HOT10PLAY/HOT11PLAY-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT10PLAY/HOT11PLAY-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT10PLAY-NF-IN-ST-LS-BK",
+            "INFINIXHOT10PLAY-NF-IN-ST-LS-BK",
             "HOT11PLAY-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -3338,9 +3338,9 @@
         "name": "INFINIX HOT11/HOT10S/X689",
         "price": 50,
         "quantity": 0,
-        "sku": "HOT11/HOT10S/X689-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT11/HOT10S/X689-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT11-NF-IN-ST-LS-BK",
+            "INFINIXHOT11-NF-IN-ST-LS-BK",
             "HOT10S-NF-IN-ST-LS-BK",
             "X689-NF-IN-ST-LS-BK"
         ],
@@ -3350,9 +3350,9 @@
         "name": "INFINIX HOT11/X658/X659",
         "price": 50,
         "quantity": 0,
-        "sku": "HOT11/X658/X659-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT11/X658/X659-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT11-NF-IN-ST-LS-BK",
+            "INFINIXHOT11-NF-IN-ST-LS-BK",
             "X658-NF-IN-ST-LS-BK",
             "X659-NF-IN-ST-LS-BK"
         ],
@@ -3362,9 +3362,9 @@
         "name": "INFINIX HOT11S",
         "price": 53,
         "quantity": 0,
-        "sku": "HOT11S-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT11S-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT11S-NF-IN-ST-LS-BK"
+            "INFINIXHOT11S-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3372,9 +3372,9 @@
         "name": "INFINIX HOT20 5G",
         "price": 53,
         "quantity": 0,
-        "sku": "HOT205G-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT205G-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT205G-NF-IN-ST-LS-BK"
+            "INFINIXHOT205G-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3382,9 +3382,9 @@
         "name": "INFINIX HOT20I",
         "price": 42,
         "quantity": 0,
-        "sku": "HOT20I-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT20I-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT20I-NF-IN-ST-LS-BK"
+            "INFINIXHOT20I-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3392,9 +3392,9 @@
         "name": "INFINIX HOT30I",
         "price": 43,
         "quantity": 0,
-        "sku": "HOT30I-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT30I-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT30I-NF-IN-ST-LS-BK"
+            "INFINIXHOT30I-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3402,9 +3402,9 @@
         "name": "INFINIX HOT30PLAY",
         "price": 53,
         "quantity": 0,
-        "sku": "HOT30PLAY-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT30PLAY-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT30PLAY-NF-IN-ST-LS-BK"
+            "INFINIXHOT30PLAY-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3412,9 +3412,9 @@
         "name": "INFINIX HOT40PRO/HOT30/NOTE30 5G",
         "price": 58,
         "quantity": 0,
-        "sku": "HOT40PRO/HOT30/NOTE305G-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT40PRO/HOT30/NOTE305G-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT40PRO-NF-IN-ST-LS-BK",
+            "INFINIXHOT40PRO-NF-IN-ST-LS-BK",
             "HOT30-NF-IN-ST-LS-BK",
             "NOTE305G-NF-IN-ST-LS-BK"
         ],
@@ -3424,9 +3424,9 @@
         "name": "INFINIX HOT50",
         "price": 62,
         "quantity": 0,
-        "sku": "HOT50-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT50-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT50-NF-IN-ST-LS-BK"
+            "INFINIXHOT50-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3434,9 +3434,9 @@
         "name": "INFINIX HOT50I",
         "price": 55,
         "quantity": 0,
-        "sku": "HOT50I-NF-IN-ST-LS-BK",
+        "sku": "INFINIXHOT50I-NF-IN-ST-LS-BK",
         "skus": [
-            "HOT50I-NF-IN-ST-LS-BK"
+            "INFINIXHOT50I-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3454,9 +3454,9 @@
         "name": "INFINIX SMART6",
         "price": 40,
         "quantity": 0,
-        "sku": "SMART6-NF-IN-ST-LS-BK",
+        "sku": "INFINIXSMART6-NF-IN-ST-LS-BK",
         "skus": [
-            "SMART6-NF-IN-ST-LS-BK"
+            "INFINIXSMART6-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3464,9 +3464,9 @@
         "name": "INFINIX SMART7",
         "price": 42,
         "quantity": 0,
-        "sku": "SMART7-NF-IN-ST-LS-BK",
+        "sku": "INFINIXSMART7-NF-IN-ST-LS-BK",
         "skus": [
-            "SMART7-NF-IN-ST-LS-BK"
+            "INFINIXSMART7-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -3474,9 +3474,9 @@
         "name": "INFINIX SMART8/SMART8PRO",
         "price": 48,
         "quantity": 0,
-        "sku": "SMART8/SMART8PRO-NF-IN-ST-LS-BK",
+        "sku": "INFINIXSMART8/SMART8PRO-NF-IN-ST-LS-BK",
         "skus": [
-            "SMART8-NF-IN-ST-LS-BK",
+            "INFINIXSMART8-NF-IN-ST-LS-BK",
             "SMART8PRO-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -3485,9 +3485,9 @@
         "name": "INFINIX SMART9",
         "price": 55,
         "quantity": 0,
-        "sku": "SMART9-NF-IN-ST-LS-BK",
+        "sku": "INFINIXSMART9-NF-IN-ST-LS-BK",
         "skus": [
-            "SMART9-NF-IN-ST-LS-BK"
+            "INFINIXSMART9-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6695,9 +6695,9 @@
         "name": "ONE FUSION",
         "price": 40,
         "quantity": 0,
-        "sku": "FUSION-NF-IN-ST-LS-BK",
+        "sku": "ONEFUSION-NF-IN-ST-LS-BK",
         "skus": [
-            "FUSION-NF-IN-ST-LS-BK"
+            "ONEFUSION-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6705,9 +6705,9 @@
         "name": "ONE FUSION C/A",
         "price": 47,
         "quantity": 0,
-        "sku": "FUSION-WF-IN-ST-LS-BK",
+        "sku": "ONEFUSION-WF-IN-ST-LS-BK",
         "skus": [
-            "FUSION-WF-IN-ST-LS-BK"
+            "ONEFUSION-WF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6715,9 +6715,9 @@
         "name": "ONE FUSIONPLUS",
         "price": 48,
         "quantity": 0,
-        "sku": "FUSIONPLUS-NF-IN-ST-LS-BK",
+        "sku": "ONEFUSIONPLUS-NF-IN-ST-LS-BK",
         "skus": [
-            "FUSIONPLUS-NF-IN-ST-LS-BK"
+            "ONEFUSIONPLUS-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6725,9 +6725,9 @@
         "name": "ONE FUSIONPLUS C/A",
         "price": 0,
         "quantity": 0,
-        "sku": "FUSIONPLUS-WF-IN-ST-LS-BK",
+        "sku": "ONEFUSIONPLUS-WF-IN-ST-LS-BK",
         "skus": [
-            "FUSIONPLUS-WF-IN-ST-LS-BK"
+            "ONEFUSIONPLUS-WF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6735,9 +6735,9 @@
         "name": "ONE HYPER",
         "price": 43,
         "quantity": 0,
-        "sku": "HYPER-NF-IN-ST-LS-BK",
+        "sku": "ONEHYPER-NF-IN-ST-LS-BK",
         "skus": [
-            "HYPER-NF-IN-ST-LS-BK"
+            "ONEHYPER-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6745,10 +6745,10 @@
         "name": "ONE VISION/ONE ACTION",
         "price": 135,
         "quantity": 0,
-        "sku": "VISION/ACTION-NF-IN-ST-LS-BK",
+        "sku": "ONEVISION/ONEACTION-NF-IN-ST-LS-BK",
         "skus": [
-            "VISION-NF-IN-ST-LS-BK",
-            "ACTION-NF-IN-ST-LS-BK"
+            "ONEVISION-NF-IN-ST-LS-BK",
+            "ONEACTION-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6756,9 +6756,9 @@
         "name": "ONE ZOOM",
         "price": 130,
         "quantity": 0,
-        "sku": "ZOOM-NF-IN-ST-LS-BK",
+        "sku": "ONEZOOM-NF-IN-ST-LS-BK",
         "skus": [
-            "ZOOM-NF-IN-ST-LS-BK"
+            "ONEZOOM-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6954,9 +6954,9 @@
         "name": "REALME C15/C11 2020",
         "price": 40,
         "quantity": 0,
-        "sku": "C15/C112020-NF-IN-ST-LS-BK",
+        "sku": "REALMEC15/C112020-NF-IN-ST-LS-BK",
         "skus": [
-            "C15-NF-IN-ST-LS-BK",
+            "REALMEC15-NF-IN-ST-LS-BK",
             "C112020-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -6965,9 +6965,9 @@
         "name": "REALME C20/C11 2021",
         "price": 40,
         "quantity": 0,
-        "sku": "C20/C112021-NF-IN-ST-LS-BK",
+        "sku": "REALMEC20/C112021-NF-IN-ST-LS-BK",
         "skus": [
-            "C20-NF-IN-ST-LS-BK",
+            "REALMEC20-NF-IN-ST-LS-BK",
             "C112021-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -6976,9 +6976,9 @@
         "name": "REALME C21Y",
         "price": 43,
         "quantity": 0,
-        "sku": "C21Y-NF-IN-ST-LS-BK",
+        "sku": "REALMEC21Y-NF-IN-ST-LS-BK",
         "skus": [
-            "C21Y-NF-IN-ST-LS-BK"
+            "REALMEC21Y-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -6986,9 +6986,9 @@
         "name": "REALME C25/REALME A16",
         "price": 38,
         "quantity": 0,
-        "sku": "C25/REALMEA16-NF-IN-ST-LS-BK",
+        "sku": "REALMEC25/REALMEA16-NF-IN-ST-LS-BK",
         "skus": [
-            "C25-NF-IN-ST-LS-BK",
+            "REALMEC25-NF-IN-ST-LS-BK",
             "REALMEA16-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -6997,9 +6997,9 @@
         "name": "REALME C3/REALME A11X",
         "price": 47,
         "quantity": 0,
-        "sku": "C3/REALMEA11X-NF-IN-ST-LS-BK",
+        "sku": "REALMEC3/REALMEA11X-NF-IN-ST-LS-BK",
         "skus": [
-            "C3-NF-IN-ST-LS-BK",
+            "REALMEC3-NF-IN-ST-LS-BK",
             "REALMEA11X-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -7008,9 +7008,9 @@
         "name": "REALME C30/C33",
         "price": 42,
         "quantity": 0,
-        "sku": "C30/C33-NF-IN-ST-LS-BK",
+        "sku": "REALMEC30/C33-NF-IN-ST-LS-BK",
         "skus": [
-            "C30-NF-IN-ST-LS-BK",
+            "REALMEC30-NF-IN-ST-LS-BK",
             "C33-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -7019,9 +7019,9 @@
         "name": "REALME C31/C33S",
         "price": 42,
         "quantity": 0,
-        "sku": "C31/C33S-NF-IN-ST-LS-BK",
+        "sku": "REALMEC31/C33S-NF-IN-ST-LS-BK",
         "skus": [
-            "C31-NF-IN-ST-LS-BK",
+            "REALMEC31-NF-IN-ST-LS-BK",
             "C33S-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -7030,9 +7030,9 @@
         "name": "REALME C35",
         "price": 42,
         "quantity": 0,
-        "sku": "C35-NF-IN-ST-LS-BK",
+        "sku": "REALMEC35-NF-IN-ST-LS-BK",
         "skus": [
-            "C35-NF-IN-ST-LS-BK"
+            "REALMEC35-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -7040,9 +7040,9 @@
         "name": "REALME C51/C53/NOTE50",
         "price": 43,
         "quantity": 0,
-        "sku": "C51/C53/NOTE50-NF-IN-ST-LS-BK",
+        "sku": "REALMEC51/C53/NOTE50-NF-IN-ST-LS-BK",
         "skus": [
-            "C51-NF-IN-ST-LS-BK",
+            "REALMEC51-NF-IN-ST-LS-BK",
             "C53-NF-IN-ST-LS-BK",
             "NOTE50-NF-IN-ST-LS-BK"
         ],
@@ -7052,9 +7052,9 @@
         "name": "REALME C51/NOTE50 C/A",
         "price": 52,
         "quantity": 0,
-        "sku": "C51/NOTE50-WF-IN-ST-LS-BK",
+        "sku": "REALMEC51/NOTE50-WF-IN-ST-LS-BK",
         "skus": [
-            "C51-WF-IN-ST-LS-BK",
+            "REALMEC51-WF-IN-ST-LS-BK",
             "NOTE50-WF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -7063,9 +7063,9 @@
         "name": "REALME C53 C/A",
         "price": 52,
         "quantity": 0,
-        "sku": "C53-WF-IN-ST-LS-BK",
+        "sku": "REALMEC53-WF-IN-ST-LS-BK",
         "skus": [
-            "C53-WF-IN-ST-LS-BK"
+            "REALMEC53-WF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -7073,9 +7073,9 @@
         "name": "REALME C55/REALME11 5G",
         "price": 50,
         "quantity": 0,
-        "sku": "C55/REALME115G-NF-IN-ST-LS-BK",
+        "sku": "REALMEC55/REALME115G-NF-IN-ST-LS-BK",
         "skus": [
-            "C55-NF-IN-ST-LS-BK",
+            "REALMEC55-NF-IN-ST-LS-BK",
             "REALME115G-NF-IN-ST-LS-BK"
         ],
         "stock": 0
@@ -7084,9 +7084,9 @@
         "name": "REALME C61 C/A",
         "price": 53,
         "quantity": 0,
-        "sku": "C61-WF-IN-ST-LS-BK",
+        "sku": "REALMEC61-WF-IN-ST-LS-BK",
         "skus": [
-            "C61-WF-IN-ST-LS-BK"
+            "REALMEC61-WF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -7094,9 +7094,9 @@
         "name": "REALME C61/C63/NOTE60",
         "price": 45,
         "quantity": 0,
-        "sku": "C61/C63/NOTE60-NF-IN-ST-LS-BK",
+        "sku": "REALMEC61/C63/NOTE60-NF-IN-ST-LS-BK",
         "skus": [
-            "C61-NF-IN-ST-LS-BK",
+            "REALMEC61-NF-IN-ST-LS-BK",
             "C63-NF-IN-ST-LS-BK",
             "NOTE60-NF-IN-ST-LS-BK"
         ],
@@ -7106,9 +7106,9 @@
         "name": "REALME C63 C/A",
         "price": 53,
         "quantity": 0,
-        "sku": "C63-WF-IN-ST-LS-BK",
+        "sku": "REALMEC63-WF-IN-ST-LS-BK",
         "skus": [
-            "C63-WF-IN-ST-LS-BK"
+            "REALMEC63-WF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -7116,9 +7116,9 @@
         "name": "REALME C65",
         "price": 46,
         "quantity": 0,
-        "sku": "C65-NF-IN-ST-LS-BK",
+        "sku": "REALMEC65-NF-IN-ST-LS-BK",
         "skus": [
-            "C65-NF-IN-ST-LS-BK"
+            "REALMEC65-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -7126,9 +7126,9 @@
         "name": "REALME C67",
         "price": 50,
         "quantity": 0,
-        "sku": "C67-NF-IN-ST-LS-BK",
+        "sku": "REALMEC67-NF-IN-ST-LS-BK",
         "skus": [
-            "C67-NF-IN-ST-LS-BK"
+            "REALMEC67-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -7136,9 +7136,9 @@
         "name": "REALME C67 C/A",
         "price": 0,
         "quantity": 0,
-        "sku": "C67-WF-IN-ST-LS-BK",
+        "sku": "REALMEC67-WF-IN-ST-LS-BK",
         "skus": [
-            "C67-WF-IN-ST-LS-BK"
+            "REALMEC67-WF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -7146,9 +7146,9 @@
         "name": "REALME C75",
         "price": 65,
         "quantity": 0,
-        "sku": "C75-NF-IN-ST-LS-BK",
+        "sku": "REALMEC75-NF-IN-ST-LS-BK",
         "skus": [
-            "C75-NF-IN-ST-LS-BK"
+            "REALMEC75-NF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
@@ -7156,9 +7156,9 @@
         "name": "REALME C75 C/A",
         "price": 75,
         "quantity": 0,
-        "sku": "C75-WF-IN-ST-LS-BK",
+        "sku": "REALMEC75-WF-IN-ST-LS-BK",
         "skus": [
-            "C75-WF-IN-ST-LS-BK"
+            "REALMEC75-WF-IN-ST-LS-BK"
         ],
         "stock": 0
     },
