@@ -28,7 +28,6 @@ def generate_product_map(products):
 def wrap_number(text, key=None, direction="forward"):
     inside_brackets = False
 
-    # Expressão regular para número com separador decimal e espaços ao redor dele
     pattern = re.compile(r"(?<![\[\d])(\d+(?:\s*[.,]\s*\d+)?)(?![\d\]])")
 
     if direction == "forward":
@@ -44,8 +43,6 @@ def wrap_number(text, key=None, direction="forward"):
                 if match:
                     raw_number = match.group(1)
                     start_pos, end_pos = match.span(1)
-
-                    # Limpa espaços apenas ao redor do separador
                     clean_number = re.sub(r"\s*", "", raw_number)
 
                     replacement = f"[{key}:{clean_number}]" if key else f"[{clean_number}]"
@@ -62,10 +59,9 @@ def wrap_number(text, key=None, direction="forward"):
                 inside_brackets = False
 
             if not inside_brackets:
-                # Procuramos do começo, mas limitando até a posição i
                 matches = list(pattern.finditer(text[:i + 1]))
                 if matches:
-                    match = matches[-1]  # último antes da posição i
+                    match = matches[-1]
                     raw_number = match.group(1)
                     start_pos, end_pos = match.span(1)
 
@@ -101,16 +97,6 @@ def wrap_letter_to_lines(text, letters, key=None, ignore_case=True):
     return "\n".join(wrapped_lines)
 
 def generate_aliases(name: str) -> list:
-    """
-    Receives a name with parts separated by hyphens.
-    If the first part contains slashes (/), it generates one name per alias.
-    
-    Example:
-        "john/mary-smith-jones" => ["john-smith-jones", "mary-smith-jones"]
-    
-    :param name: A string with hyphen-separated parts, first part may contain aliases separated by "/"
-    :return: List of generated names
-    """
     parts = name.split('-')
     if not parts:
         return []
@@ -122,4 +108,4 @@ def generate_aliases(name: str) -> list:
         aliases = first_part.split('/')
         return [f"{alias}-{'-'.join(rest)}" for alias in aliases]
     else:
-        return [name]  # No slash, return original name as a list
+        return [name]

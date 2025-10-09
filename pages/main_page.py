@@ -165,8 +165,6 @@ class MainPage(Page):
 
             headers = [cell.value for cell in next(ws.iter_rows(min_row=1, max_row=1))]
             expected_columns = ["sku", "name", "quantity", "price"]
-
-            # Detectar quais colunas do esperado existem no Excel
             existing_columns = [col for col in expected_columns if col in headers]
 
             if not existing_columns:
@@ -181,8 +179,6 @@ class MainPage(Page):
                     continue
 
                 item = {}
-
-                # Preencher as colunas existentes com dados
                 for col in existing_columns:
                     value = row[col_indices[col]]
 
@@ -207,14 +203,12 @@ class MainPage(Page):
 
                     item[col] = value
 
-                # Preencher colunas faltantes com valor padrão
                 for col in expected_columns:
                     if col not in existing_columns:
                         item[col] = 0 if col == "quantity" else ""
 
                 data.append(item)
 
-            # Atualizar tabela com as colunas completas (sempre as esperadas)
             self.table.set_columns(expected_columns)
             self.table.set_data(data)
             self.table.set_editable_columns(expected_columns)
