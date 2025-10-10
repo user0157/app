@@ -25,28 +25,31 @@ class MainPage(Page):
         self.sidebar.grid_columnconfigure(0, weight=1)
 
         buttons = [
+            ("文本标记", None),
             ("标记数量-前面", lambda: self.run_algorithm("quantity", "forward")),
             ("标记数量-后面", lambda: self.run_algorithm("quantity", "backward")),
             ("标记价格-前面", lambda: self.run_algorithm("price", "forward")),
             ("标记价格-后面", lambda: self.run_algorithm("price", "backward")),
-            ("", None),
+            ("文本处理", None),
             ("提取表格", self.process_text),
-            ("匹配价格", self.get_price),
             ("复制表格数据", self.copy_to_clipboard),
-            ("", None),
+            ("表格处理", None),
+            ("匹配SKU", self.get_sku),
+            ("添加行", lambda: self.table.add_row()),
+            ("清理表格数据", lambda: self.table.set_data([])),
+            ("Excel", None),
             ("导入Excel", self.upload_excel),
             ("导出Excel", self.export_excel),
             ("创建缓存", self.create_cache),
         ]
         
         for i, (text, command) in enumerate(buttons):
-            if text == "":
-                spacer = ttk.Frame(self.sidebar, height=30)
-                spacer.grid(row=i, column=0)
+            if command is None:
+                label = ttk.Label(self.sidebar, text=text, anchor="center", font=("Arial", 10, "bold"))
+                label.grid(row=i, column=0, sticky="ew", pady=(10, 2))
             else:
                 btn = ttk.Button(self.sidebar, text=text, command=command)
                 btn.grid(row=i, column=0, sticky="ew", pady=2)
-
 
         self.sidebar.grid_rowconfigure(len(buttons), weight=1)
 
@@ -95,6 +98,11 @@ class MainPage(Page):
         new_text = wrap_number_to_lines(text, key, direction)
         self.editor.overwrite(new_text)
 
+    def get_sku(self):
+        items = [item["name"] for item in self.table.get_data() if item.get("name")]
+        text = "\n".join(items)
+        self.emit("page/process", text, self.page_id)
+
     def process_text(self):
         text = self.editor.get("1.0", tk.END)
         self.emit("page/process", text, self.page_id)
@@ -106,7 +114,7 @@ class MainPage(Page):
             for d in data
         ]
 
-        result = self.match(filtered, mode="sku")
+        result = self.match(filtered, mode="both")
         if not result:
             return
 
