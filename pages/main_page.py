@@ -31,12 +31,13 @@ class MainPage(Page):
             ("标记价格-前面", lambda: self.run_algorithm("price", "forward")),
             ("标记价格-后面", lambda: self.run_algorithm("price", "backward")),
             ("文本处理", None),
-            ("提取表格", self.process_text),
-            ("复制表格数据", self.copy_to_clipboard),
+            ("匹配文本内容", self.process_text),
             ("表格处理", None),
-            ("匹配SKU", self.get_sku),
+            ("匹配表格内容", self.get_sku),
+            ("获取价格", self.get_price),
             ("添加行", lambda: self.table.add_row()),
             ("清理表格数据", lambda: self.table.set_data([])),
+            ("复制表格数据", self.copy_to_clipboard),
             ("Excel", None),
             ("导入Excel", self.upload_excel),
             ("导出Excel", self.export_excel),
@@ -114,7 +115,7 @@ class MainPage(Page):
             for d in data
         ]
 
-        result = self.match(filtered, mode="both")
+        result = self.match(filtered, mode="sku")
         if not result:
             return
 
