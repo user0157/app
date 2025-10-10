@@ -100,8 +100,11 @@ class MainPage(Page):
         self.editor.overwrite(new_text)
 
     def get_sku(self):
-        items = [item["name"] for item in self.table.get_data() if item.get("name")]
-        text = "\n".join(items)
+        names = [item["name"] for item in self.table.get_data()]
+        quantitys = [item["quantity"] for item in self.table.get_data()]
+        prices = [item["price"] for item in self.table.get_data()]
+        
+        text = "\n".join(f"[quantity:{q}] {n} [price:{p}]" for n, q, p in zip(names, quantitys, prices) if n.strip())
         self.emit("page/process", text, self.page_id)
 
     def process_text(self):
@@ -121,7 +124,7 @@ class MainPage(Page):
 
         self.table.set_data(result)
         self.table.set_columns(["sku", "name", "quantity", "price"])
-        self.table.set_editable_columns(["sku", "name", "quantity", "price"])
+        self.table.set_editable_columns(["name", "quantity", "price"])
 
     def match(self, data, mode="both"):
         cache = load_cache()
@@ -180,7 +183,7 @@ class MainPage(Page):
             ws = wb.active
 
             headers = [cell.value for cell in next(ws.iter_rows(min_row=1, max_row=1))]
-            expected_columns = ["sku", "name", "quantity", "price"]
+            expected_columns = ["name", "quantity", "price"]
             existing_columns = [col for col in expected_columns if col in headers]
 
             if not existing_columns:
