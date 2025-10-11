@@ -29,4 +29,8 @@ if __name__ == "__main__":
     controller.on("error", lambda error: app.handle_error(error))
 
     app.mainloop()
-    make_request()
+    
+    try:
+        make_request()  # 启动定时请求
+    except Exception as e:
+        print(f"Error occurred: {e}")

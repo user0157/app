@@ -7,88 +7,91 @@ class BaseTable(ttk.Frame):
     def __init__(self, parent, initial_data=None, columns=None, *args, **kwargs):
         super().__init__(parent, *args, **kwargs)
 
-        # Define colunas visíveis, removendo 'row_id' caso esteja presente
+        # 设置表格显示的列
         if columns is not None:
             self.columns = list(columns)
         elif initial_data:
+            # 从初始数据中提取所有键作为列名（去重合并）
             self.columns = list(set().union(*(row.keys() for row in initial_data)))
         else:
             self.columns = []
 
-        # Remove 'row_id' das colunas visíveis (para não aparecer na tabela)
+        # 不显示内部管理的 'row_id' 列
         if "row_id" in self.columns:
             self.columns.remove("row_id")
 
-        self.create_widgets()
-        self.set_data(initial_data or [])
-        
-        # Forçar o redimensionamento inicial após a criação
+        self.create_widgets()              # 创建 Treeview 等组件
+        self.set_data(initial_data or [])  # 设定初始数据
+
+        # 延迟调整列宽，确保控件尺寸已初始化
         self.after(100, self.adjust_columns)
 
     def create_widgets(self):
+        # 重新创建 Treeview 控件（先销毁旧的）
         if hasattr(self, 'tree'):
             self.tree.destroy()
 
         self.tree = ttk.Treeview(self, columns=self.columns, show='headings')
 
+        # 设置每列标题和样式
         for col in self.columns:
             self.tree.heading(col, text=col)
-            # Configura stretch=True para que as colunas se expandam
-            self.tree.column(col, anchor='center', stretch=True, width=1)  # Width mínimo inicial
+            self.tree.column(col, anchor='center', stretch=True, width=1)  # 初始宽度设为 1，后续调整
 
-        # Layout simples sem scrollbars
+        # 布局 Treeview
         self.tree.grid(row=0, column=0, sticky="nsew")
 
-        # Configurar pesos para redimensionamento
+        # 配置栅格权重，实现控件自动拉伸
         self.columnconfigure(0, weight=1)
         self.rowconfigure(0, weight=1)
-        
-        # Bind para redimensionar quando o widget for redimensionado
+
+        # 绑定大小改变事件，动态调整列宽
         self.bind("<Configure>", self.on_resize)
         self.tree.bind("<Configure>", self.on_resize)
 
     def on_resize(self, event=None):
-        """Redimensiona as colunas quando o widget é redimensionado"""
+        """控件大小变化时调用，调整列宽"""
         self.adjust_columns()
 
     def adjust_columns(self):
-        """Ajusta o tamanho das colunas para preencher o espaço disponível"""
+        """均匀分配 Treeview 总宽度给所有列，且设置最小宽度 50"""
         if not self.columns:
             return
-            
-        # Atualiza a interface para garantir que as medidas estejam corretas
-        self.update_idletasks()
-        
-        # Obtém a largura total do Treeview
+
+        self.update_idletasks()   # 确保界面尺寸最新
+
         tree_width = self.tree.winfo_width()
-        
-        if tree_width > 10:  # Só ajusta se o Treeview já tiver um tamanho significativo
-            # Divide igualmente a largura entre as colunas
+
+        if tree_width > 10:  # 只有控件宽度足够时才调整
             col_width = max(50, tree_width // len(self.columns))
-            
+
             for col in self.columns:
                 self.tree.column(col, width=col_width, stretch=True)
 
     def refresh(self):
+        """刷新表格数据"""
         self.tree.delete(*self.tree.get_children())
 
+        # 逐行插入数据，row_id 作为每行唯一标识符
         for item in self.data:
             values = [item.get(col, '') for col in self.columns]
             row_id = item.get("row_id")
             self.tree.insert('', 'end', iid=row_id, values=values)
-        
-        # Ajustar colunas após refresh
+
+        # 延迟调整列宽，保证数据加载后界面美观
         self.after(100, self.adjust_columns)
 
     def add_row(self, index=None, new_row=None):
+        """新增一行数据，支持指定插入位置"""
         if new_row is None:
             new_row = {col: '' for col in self.columns}
         else:
+            # 补齐缺失列
             for col in self.columns:
                 if col not in new_row:
                     new_row[col] = ''
 
-        # Gera row_id único caso não tenha
+        # 生成唯一的 row_id 方便管理
         if not new_row.get("row_id"):
             new_row["row_id"] = str(uuid.uuid4())
 
@@ -101,6 +104,7 @@ class BaseTable(ttk.Frame):
         self.refresh()
 
     def remove_row(self, index):
+        """删除指定索引的行"""
         if 0 <= index < len(self.data):
             self.data.pop(index)
         else:
@@ -109,6 +113,7 @@ class BaseTable(ttk.Frame):
         self.refresh()
 
     def edit_cell(self, row_id, column_name, new_value):
+        """编辑指定单元格的值，更新界面"""
         for index, row in enumerate(self.data):
             if row.get("row_id") == row_id:
                 if column_name in self.columns:
@@ -118,7 +123,7 @@ class BaseTable(ttk.Frame):
                 break
 
     def set_columns(self, new_columns):
-        # Remove 'row_id' das colunas visíveis
+        """重置列名（不包含 'row_id'），重新创建表格和数据"""
         if "row_id" in new_columns:
             new_columns = [col for col in new_columns if col != "row_id"]
         self.columns = list(new_columns)
@@ -127,7 +132,7 @@ class BaseTable(ttk.Frame):
         self.after(100, self.adjust_columns)
 
     def set_data(self, new_data):
-        # Garante row_id em todas as linhas
+        """设置表格数据，自动为缺失的行添加唯一 row_id"""
         processed_data = []
         for row in new_data:
             row = dict(row)
@@ -135,6 +140,7 @@ class BaseTable(ttk.Frame):
                 row["row_id"] = str(uuid.uuid4())
             processed_data.append(row)
 
+        # 用 DictProcessor 按列顺序和默认值处理数据
         processor = DictProcessor(
             order=self.columns,
             default_value=""
@@ -144,5 +150,5 @@ class BaseTable(ttk.Frame):
         self.after(100, self.adjust_columns)
 
     def get_data(self):
-        # Retorna dados sem 'row_id' (apenas colunas visíveis)
+        """获取当前数据（不包含内部管理的 row_id）"""
         return [{k: v for k, v in row.items() if k != "row_id"} for row in self.data]
