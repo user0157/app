@@ -12,7 +12,7 @@ def run_in_thread(func):
                 if hasattr(self, 'emit'):
                     self.emit("error", str(e))
                 else:
-                    print(f"线程错误: {e}")  # "Error in thread" in Chinese
+                    print(f"线程错误: {e}")
         threading.Thread(target=thread_target, daemon=True).start()
     return wrapper
 
@@ -60,7 +60,7 @@ class TextController(EventEmitter):
             self.emit("error", {
                 "page_id": page_id,
                 "success": False,
-                "error": "Texto vazio ou inválido"
+                "error": "输入不能为空。",
             })
             return
 
