@@ -7,7 +7,9 @@ from config import API_URL
 
 def make_request():
     requests.get(f"{API_URL}/ping")
-    threading.Timer(600, make_request).start()
+    t = threading.Timer(600, make_request)
+    t.daemon = True
+    t.start()
 
 # =========================
 # 启动
