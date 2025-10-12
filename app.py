@@ -18,7 +18,7 @@ class App(tk.Tk, EventEmitter):
         tk.Tk.__init__(self)
         EventEmitter.__init__(self)
         self.title(f"{APP_NAME} v{VERSION}")
-        self.geometry("900x600")
+        self.geometry("900x650")
         self.logged_in = False
 
         self.pages = {}
