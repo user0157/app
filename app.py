@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from event_emitter import EventEmitter
 from widgets.tab_bar import TabBar
+from widgets.toast_message import ToastMessage
 from pages.login_page import LoginPage
 from pages.main_page import MainPage
 from pages.home_page import HomePage
@@ -35,6 +36,7 @@ class App(tk.Tk, EventEmitter):
         self.tab_bar.grid(row=0, column=0, sticky="ew")
         self.tab_bar.on("tab_added", self.create_new_page)
         self.tab_bar.on("tab_selected", self.show_page)
+        self.tab_bar.on("error", self.show_toast)
         self.tab_bar.add_tab()
 
         self.footer = tk.Frame(self, relief="raised", bd=1, bg="#f0f0f0")
@@ -66,6 +68,9 @@ class App(tk.Tk, EventEmitter):
         menu_bar.add_cascade(label="帮助", menu=help_menu)
         
         self.config(menu=menu_bar)
+
+    def show_toast(self, message):
+        ToastMessage(self, message)
 
     def show_about(self):
         self.tab_bar.add_tab("about")

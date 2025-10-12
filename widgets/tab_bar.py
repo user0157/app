@@ -70,6 +70,7 @@ class TabBar(tk.Frame, EventEmitter):
 
     def add_tab(self, page_type="home"):
         if self.max_tabs is not None and len(self.tabs) >= self.max_tabs:
+            self.emit("error", "已达最大标签页数量")
             return
 
         page_id = self.page_count
