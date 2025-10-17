@@ -9,7 +9,6 @@ from openpyxl.styles import Font  # 用于Excel中的字体样式
 import datetime
 import pyperclip  # 用于操作剪贴板
 
-
 class MainPage(Page):
     def __init__(self, parent, page_id):
         """
@@ -49,13 +48,16 @@ class MainPage(Page):
             ("表格处理", None),
             ("匹配表格内容", self.get_sku),
             ("获取价格", self.get_price),
+            ("复制表格数据", self.copy_to_clipboard),  # 将表格数据复制到剪贴板
+            ("", None),
+            ("增加价格", self.increment_price),
             ("添加行", lambda: self.table.add_row()),  # 在表格中添加新行
             ("清理表格数据", lambda: self.table.set_data([])),  # 清空表格数据
-            ("复制表格数据", self.copy_to_clipboard),  # 将表格数据复制到剪贴板
             ("Excel", None),
             ("导入Excel", self.upload_excel),  # 导入Excel文件中的数据
             ("导出Excel", self.export_excel),  # 将数据导出为Excel文件
             ("创建缓存", self.create_cache),  # 创建缓存
+            ("显示所有产品", self.show_cache)
         ]
         
         # 动态创建按钮或标签，基于按钮列表的内容
@@ -120,6 +122,79 @@ class MainPage(Page):
         text = "\n".join(lines)
         pyperclip.copy(text)  # 使用 pyperclip 库复制文本
         ToastMessage(self, "成功复制到粘贴面板")  # 显示提示消息
+
+    def show_cache(self):
+        if messagebox.askyesno("警告", "确定清空表格内容?"):
+            cache = load_cache()
+
+            self.table.set_data(cache)
+
+    def increment_price(self):
+        """
+        Opens a temporary window for the user to input a value to increment the price.
+        """
+        def confirm():
+            try:
+                # Try to convert the input to a float
+                increment_value = float(entry.get())
+
+                # Remove the .0 if it's an integer value
+                if increment_value.is_integer():
+                    increment_value = int(increment_value)  # Convert to integer if it's a whole number
+
+                # Implement the logic to increment the price in the table
+                data = self._increment_price_in_table(increment_value)
+
+                if data is not None:
+                    self.table.set_data(data)  # Set the updated data
+                temp_window.destroy()  # Close the temporary window after confirmation
+            except ValueError:
+                messagebox.showerror("Error", "Please enter a valid numeric value.")
+
+        # Create the temporary window
+        temp_window = tk.Toplevel(self)
+        temp_window.title("Increment Price")
+
+        # Layout settings for the temporary window
+        temp_window.geometry("300x150")  # Size of the window
+        temp_window.resizable(False, False)
+
+        # Add label and entry field for the value
+        label = tk.Label(temp_window, text="Enter the value to increment the price:")
+        label.pack(pady=10)
+
+        entry = tk.Entry(temp_window)
+        entry.pack(pady=5)
+        entry.focus_set()  # Focus the entry field as soon as the window opens
+
+        # Button to confirm the input
+        confirm_button = tk.Button(temp_window, text="Confirm", command=confirm)
+        confirm_button.pack(pady=10)
+
+    def _increment_price_in_table(self, increment):
+        data = self.table.get_data()
+
+        for item in data:
+            if item['price']:  # Only process items that have a valid price
+                try:
+                    # Convert price to float and increment
+                    current_price = float(item['price'])
+
+                    new_price = current_price + increment
+
+                    # Remove the .0 if the price is an integer
+                    if new_price.is_integer():
+                        new_price = int(new_price)  # Convert to integer if it's a whole number
+
+                    # Update the price in the dictionary
+                    item['price'] = str(new_price)  # Store the new price as a string
+                except ValueError:
+                    # If the price is invalid (not a valid number), skip this item
+                    print(f"Invalid price for SKU {item['sku']}, skipping.")
+            else:
+                print(f"Skipping SKU {item['sku']} due to empty price.")
+
+        return data
 
     def logout(self):
         """
@@ -354,8 +429,8 @@ class MainPage(Page):
                 ws.column_dimensions[col_letter].width = adjusted_width
 
             # 设置字体
-            max_row = ws.max_row
-            max_col = ws.max_column
+            max_row = ws.max_row + 4
+            max_col = ws.max_column + 4
             for row in ws.iter_rows(min_row=1, max_row=max_row, min_col=1, max_col=max_col):
                 for cell in row:
                     if cell.font != header_font:
