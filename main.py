@@ -7,7 +7,7 @@ from config import API_URL
 
 def make_request():
     requests.get(f"{API_URL}/ping")
-    t = threading.Timer(600, make_request)
+    t = threading.Timer(10, make_request)
     t.daemon = True
     t.start()
 
@@ -15,6 +15,11 @@ def make_request():
 # 启动
 # =========================
 if __name__ == "__main__":
+    try:
+        make_request()  # 启动定时请求
+    except Exception as e:
+        print(f"Error occurred: {e}")
+
     app = App()
     processor = TextProcessor()
     controller = TextController(processor)
@@ -31,8 +36,3 @@ if __name__ == "__main__":
     controller.on("error", lambda error: app.handle_error(error))
 
     app.mainloop()
-    
-    try:
-        make_request()  # 启动定时请求
-    except Exception as e:
-        print(f"Error occurred: {e}")
